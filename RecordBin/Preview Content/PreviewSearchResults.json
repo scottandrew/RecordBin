@@ -1,0 +1,5623 @@
+[
+    {
+        "id": 45467,
+        "type": "artist",
+        "user_data": {
+            "in_wantlist": true,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/artist/45467-Pink-Floyd",
+        "title": "Pink Floyd",
+        "thumb": "https://i.discogs.com/h0Ida9ARAq2zNZzLmCk7YrDmFGHqB7-YrU8HVFKiejE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1NDY3/LTE1NzE0OTkzMDkt/NTY1My5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/JSeGRTYDFhWhHOJYb4pxTcfwQtnvjPGqhrLFuaVgoTE/rs:fit/g:sm/q:90/h:745/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1NDY3/LTE1NzE0OTkzMDkt/NTY1My5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/artists/45467"
+    },
+    {
+        "id": 272650,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/272650-Pink-Floyd-Music-Ltd",
+        "title": "Pink Floyd Music Ltd.",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/272650"
+    },
+    {
+        "id": 276178,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/276178-Pink-Floyd-Music-Publishers-Ltd",
+        "title": "Pink Floyd Music Publishers Ltd.",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/276178"
+    },
+    {
+        "id": 983890,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/983890-Pink-Floyd-Records",
+        "title": "Pink Floyd Records",
+        "thumb": "https://i.discogs.com/VA0HCzPIZbHqFlElpO_XAaN6ipVSF5H2wfCMhPHxpAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4Mzg5/MC0xNDYwNzIwMTM2/LTc0NjYuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/pwLmGePtehVK-ElkFckuhgJ-Xq9j_HrqAEpVsRa9MYo/rs:fit/g:sm/q:90/h:294/w:294/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4Mzg5/MC0xNDYwNzIwMTM2/LTc0NjYuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/labels/983890"
+    },
+    {
+        "country": "Europe",
+        "year": "2001",
+        "format": [
+            "Box Set",
+            "Compilation",
+            "Vinyl",
+            "LP",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "EMI Records Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "Westminster Music Ltd.",
+            "Roger Waters Music Overseas Ltd.",
+            "Pink Floyd Music Publishers Ltd.",
+            "peermusic",
+            "das boot recording",
+            "Abbey Road Studios",
+            "Record Industry"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock",
+            "Art Rock",
+            "Arena Rock"
+        ],
+        "id": 20631,
+        "barcode": [
+            "7 24353 61111 8",
+            "7243 536111 18 (5361121 A)",
+            "7243 536111 18 (5361121 B)",
+            "7243 536111 18 (5361131 C)",
+            "7243 536111 18 (5361131 D)",
+            "7243 536111 18 (5361141 E)",
+            "7243 536111 18 (5361141 F)",
+            "7243 536111 18 (5361151G)",
+            "7243 536111 18 (5361151H)",
+            "536 1111  1A1 Sean abbey rd.",
+            "536 1111  1B1 Sean abbey rd.",
+            "536 1111  1C1 sean abbey rd.",
+            "536 1111  1D1 sean abbey rd.",
+            "536 1111  2E1 sean abbey rd.",
+            "536 1111 1F1 sean abbey rd.",
+            "536 1111 1G1 sean abbey rd.",
+            "536 1111 1H1 sean abbey rd.",
+            "7243 53611118 (5361121)",
+            "7243 53611118 / (5361121)",
+            "7243 53611118 (5361131)",
+            "7243 53611118 / (5361131)",
+            "7243 53611118 (5361141)",
+            "7243 53611118 / (5361141)",
+            "7243 53611118 (5361151)",
+            "7243 53611118 / (5361151)"
+        ],
+        "user_data": {
+            "in_wantlist": true,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/master/20631-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 53611118",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/iPFV6a3_Fw0rjWj4c6Uyy2mLWgdRaUhk5WQBxC-1IHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTAx/Mi0xNTIzMjAyMjU0/LTQyODguanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/lely_jbOoFsw6WlxmCT-0LMUEPd8njCFNa7XXiIhh6o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTAx/Mi0xNTIzMjAyMjU0/LTQyODguanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/masters/20631",
+        "community": {
+            "want": 4086,
+            "have": 20772
+        }
+    },
+    {
+        "id": 135079,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/135079-Not-On-Label-Pink-Floyd",
+        "title": "Not On Label (Pink Floyd)",
+        "thumb": "https://i.discogs.com/5Dc1j5lZ71bqLiEPFtpq7KMyldH6p59lJBjG08gG8u4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNTA3/OS0xNjgyODkzMjkz/LTMwOTcucG5n.jpeg",
+        "cover_image": "https://i.discogs.com/rz2xdmWC6yylLLbenGkP67efZ4COiCSxzYwu8C8kLaA/rs:fit/g:sm/q:90/h:554/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNTA3/OS0xNjgyODkzMjkz/LTMwOTcucG5n.jpeg",
+        "resource_url": "https://api.discogs.com/labels/135079"
+    },
+    {
+        "country": "UK",
+        "year": "1970",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Stereo"
+        ],
+        "label": [
+            "Columbia",
+            "Columbia",
+            "EMI",
+            "The Best Of",
+            "Habo",
+            "N.V. Bovema",
+            "Bovema / EMI Studios",
+            "Bovema / EMI Studios"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock",
+            "Pop"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 44236,
+        "barcode": [
+            "BIEM",
+            "5C 054-04299-A",
+            "5C 054-04299-B",
+            "04299A//13.153-1",
+            "04299B//13.154-1"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 44236,
+        "master_url": "https://api.discogs.com/masters/44236",
+        "uri": "/master/44236-The-Pink-Floyd-The-Best-Of-The-Pink-Floyd",
+        "catno": "5C 054-04299",
+        "title": "The Pink Floyd* - The Best Of The Pink Floyd",
+        "thumb": "https://i.discogs.com/CodT6axT2vssL-2imGJoUQYD2LATRyh5bzQZfktr4w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc0/NjktMTYxNjc3OTQz/My0xNTUzLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/5_7CzT8VKDBxBv85nEsd62Yzfz7_5XPHMGEhHrD0-Ps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc0/NjktMTYxNjc3OTQz/My0xNTUzLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/44236",
+        "community": {
+            "want": 4519,
+            "have": 13102
+        }
+    },
+    {
+        "id": 435645,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/435645-Pink-Floyd-1987-Ltd",
+        "title": "Pink Floyd (1987) Ltd.",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/435645"
+    },
+    {
+        "country": "Europe",
+        "year": "2011",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "EMI",
+            "EMI Music Ltd.",
+            "Das Boot Recording",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "EMI Records Ltd.",
+            "Roger Waters Music Overseas Ltd.",
+            "Muziekuitgeverij Artemis B.V.",
+            "Westminster Music Ltd.",
+            "TRO-Hampshire House Publishing Corp.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music Publishers Ltd.",
+            "Pink Floyd Music Publishers Inc.",
+            "www.takt.eu"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 397339,
+        "barcode": [
+            "5099902896625",
+            "5 099902 896625",
+            "[www.takt.eu logo] 2100003171542 0289662",
+            "IFPI LK97",
+            "IFPI 9R80",
+            "IFPI 9R96",
+            "IFPI 9R97",
+            "IFPI UU008",
+            "ifpi 9R82",
+            "IFPI UU015"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/master/397339-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "50999 028966 2 5",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/ngkjNq3HzDqL_c_fmrihXpkuqm-6fEsx2JZK7Gkeck4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc2/NTItMTMzMTQ4NDIw/NC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/hV8xvUTrvYk69cDIC_3drNiXut_Wb6vIcEwfWZfdGag/rs:fit/g:sm/q:90/h:485/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc2/NTItMTMzMTQ4NDIw/NC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/masters/397339",
+        "community": {
+            "want": 1029,
+            "have": 12075
+        }
+    },
+    {
+        "id": 290524,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/290524-Why-Pink-Floyd-Discovery-Edition",
+        "title": "Why Pink Floyd? Discovery Edition",
+        "thumb": "https://i.discogs.com/DjqlTnp8ZxIaqUyt8aeEcmMw8Y8KbYibYJhhqSLpp1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDUy/NC0xNjY3Mzc5MTAy/LTYzMjguanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/nmvKjF-cBB6mFEPpTJATxNqkNZS7AOqECbath1luHPU/rs:fit/g:sm/q:90/h:282/w:346/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDUy/NC0xNjY3Mzc5MTAy/LTYzMjguanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/labels/290524"
+    },
+    {
+        "id": 307788,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/307788-Pink-Floyd-Music-Publishing-Ltd",
+        "title": "Pink Floyd Music Publishing Ltd.",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/307788"
+    },
+    {
+        "id": 305247,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/305247-Pink-Floyd-Music-Publishers-Inc",
+        "title": "Pink Floyd Music Publishers Inc.",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/305247"
+    },
+    {
+        "country": "Europe",
+        "year": "2001",
+        "format": [
+            "Box Set",
+            "Compilation",
+            "Vinyl",
+            "LP",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "EMI Records Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "Westminster Music Ltd.",
+            "Roger Waters Music Overseas Ltd.",
+            "Pink Floyd Music Publishers Ltd.",
+            "peermusic",
+            "das boot recording",
+            "Abbey Road Studios",
+            "Record Industry"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock",
+            "Art Rock",
+            "Arena Rock"
+        ],
+        "id": 835012,
+        "barcode": [
+            "7 24353 61111 8",
+            "7243 536111 18 (5361121 A)",
+            "7243 536111 18 (5361121 B)",
+            "7243 536111 18 (5361131 C)",
+            "7243 536111 18 (5361131 D)",
+            "7243 536111 18 (5361141 E)",
+            "7243 536111 18 (5361141 F)",
+            "7243 536111 18 (5361151G)",
+            "7243 536111 18 (5361151H)",
+            "536 1111  1A1 Sean abbey rd.",
+            "536 1111  1B1 Sean abbey rd.",
+            "536 1111  1C1 sean abbey rd.",
+            "536 1111  1D1 sean abbey rd.",
+            "536 1111  2E1 sean abbey rd.",
+            "536 1111 1F1 sean abbey rd.",
+            "536 1111 1G1 sean abbey rd.",
+            "536 1111 1H1 sean abbey rd.",
+            "7243 53611118 (5361121)",
+            "7243 53611118 / (5361121)",
+            "7243 53611118 (5361131)",
+            "7243 53611118 / (5361131)",
+            "7243 53611118 (5361141)",
+            "7243 53611118 / (5361141)",
+            "7243 53611118 (5361151)",
+            "7243 53611118 / (5361151)"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/835012-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 53611118",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/iPFV6a3_Fw0rjWj4c6Uyy2mLWgdRaUhk5WQBxC-1IHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTAx/Mi0xNTIzMjAyMjU0/LTQyODguanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/lely_jbOoFsw6WlxmCT-0LMUEPd8njCFNa7XXiIhh6o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTAx/Mi0xNTIzMjAyMjU0/LTQyODguanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/releases/835012",
+        "community": {
+            "want": 1436,
+            "have": 3237
+        },
+        "format_quantity": 4,
+        "formats": [
+            {
+                "name": "Box Set",
+                "qty": "1",
+                "descriptions": [
+                    "Compilation"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "4",
+                "descriptions": [
+                    "LP",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 290516,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/290516-Why-Pink-Floyd-Experience-Edition",
+        "title": "Why Pink Floyd? Experience Edition",
+        "thumb": "https://i.discogs.com/1JiKDMJhtoYKNmTtuJneqgJR10oGDhnlsLGzUkyFyLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDUx/Ni0xNTYxNTQ5Mjg5/LTM4MDMuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/mytHn4N615bc3m8jHFkGs1M7gkHkYY84tVlNBXDIKVU/rs:fit/g:sm/q:90/h:177/w:175/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDUx/Ni0xNTYxNTQ5Mjg5/LTM4MDMuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/labels/290516"
+    },
+    {
+        "id": 857815,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/857815-Pink-Floyd",
+        "title": "Pink Floyd",
+        "thumb": "https://i.discogs.com/nryMoStpEM2zYNvxIbcCaXqDVrFRT_OIw4kRG5i5yQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg1Nzgx/NS0xNDM0MzA5ODUw/LTYxMDIucG5n.jpeg",
+        "cover_image": "https://i.discogs.com/_vG6PCtkv6h1fqST_FzqgPPd7RwYP1xBpWefCPoKfUU/rs:fit/g:sm/q:90/h:220/w:256/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg1Nzgx/NS0xNDM0MzA5ODUw/LTYxMDIucG5n.jpeg",
+        "resource_url": "https://api.discogs.com/labels/857815"
+    },
+    {
+        "id": 306267,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/306267-Why-Pink-Floyd-Immersion-Edition",
+        "title": "Why Pink Floyd? Immersion Edition",
+        "thumb": "https://i.discogs.com/GhNFzv-EwgQe8nzEZIoTxeFQA3XdXYZg88IE76Y5kK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNjI2/Ny0xNjY3Mzc5MDc0/LTgzODQuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/sJKNZOlsGF_hWB4KScA3BHb_qmi21gOCg6qee5f3LtA/rs:fit/g:sm/q:90/h:422/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNjI2/Ny0xNjY3Mzc5MDc0/LTgzODQuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/labels/306267"
+    },
+    {
+        "country": "Europe",
+        "year": "2016",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Reissue",
+            "Remastered"
+        ],
+        "label": [
+            "Pink Floyd Records",
+            "Pink Floyd Records",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Parlophone Records Ltd.",
+            "Parlophone Records Ltd."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock",
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 9438148,
+        "barcode": [
+            "724353611125"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/9438148-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "PFR20",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/6LcSWz1uzZOPgcr6G7GcL2MKL0jeqlmNNOjStFPBhfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzgx/NDgtMTU3OTg3ODQw/Ni04NDQ2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/0IkaOXIChAnEiRTlVuqvqQl65uKeTdGGvf9ibRWtk_E/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzgx/NDgtMTU3OTg3ODQw/Ni04NDQ2LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/9438148",
+        "community": {
+            "want": 101,
+            "have": 2830
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Reissue",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 750915,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/750915-Pink-Floyd-Music-Publ",
+        "title": "Pink Floyd Music Publ.",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/750915"
+    },
+    {
+        "country": "Europe",
+        "genre": [
+            "Rock"
+        ],
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Reissue",
+            "Remastered"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 374329,
+        "label": [
+            "EMI",
+            "EMI",
+            "www.imsgroup.it",
+            "EMI Records Ltd.",
+            "Sony Music Entertainment",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd."
+        ],
+        "type": "release",
+        "barcode": [
+            "7 24353 61112 5",
+            "724353611125",
+            "LC 0542",
+            "BEL/BIEM/SIAE",
+            "5361122",
+            "5361132",
+            "[ims logo] www.imsgroup.it 5361122",
+            "IFPI LV03",
+            "IFPI 2527",
+            "[ims logo] www.imsgroup.it 5361132",
+            "IFPI LV05",
+            "IFPI 2535",
+            "[ims logo] www.imsgroup.it 5361122",
+            "IFPI LV03",
+            "IFPI 2549",
+            "[ims logo] www.imsgroup.it 5361122",
+            "IFPI LV03",
+            "IFPI 2535",
+            "[ims logo] www.imsgroup.it 5361122",
+            "IFPI LV03",
+            "IFPI 2537",
+            "[ims logo] www.imsgroup.it 5361132",
+            "IFPI LV03",
+            "IFPI 2535",
+            "IFPI LV03",
+            "IFPI 2522",
+            "IFPI LV03",
+            "IFPI 2535",
+            "[ims logo] www.imsgroup.it 5361122",
+            "IFPI LV03",
+            "IFPI 2525",
+            "[ims logo] www.imsgroup.it 5361132",
+            "IFPI LV03",
+            "IFPI 2535",
+            "[ims logo] www.imsgroup.it 5361122",
+            "IFPI LV03",
+            "IFPI 2537",
+            "[ims logo] www.imsgroup.it 5361132",
+            "IFPI LV03",
+            "IFPI 2525",
+            "PM499"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/374329-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/_miYlLLjLz6kYVO-queRdb0lr0H_YykuWZpKsnTUYig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMy/OS0xMjMxMDk5NTUz/LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/7dmskVfTKZXInohauc32EScictfK9jFgBOfKV6HyyDI/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMy/OS0xMjMxMDk5NTUz/LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/374329",
+        "community": {
+            "want": 106,
+            "have": 2993
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "Slipcase",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Reissue",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "Capitol Records",
+            "EMI Records Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "TRO-Essex Music, Inc.",
+            "Roger Waters Music Overseas Ltd.",
+            "Muziekuitgeverij Artemis B.V.",
+            "TRO-Hampshire House Publishing Corp.",
+            "Pink Floyd Music Publishers Inc.",
+            "Tro-Essex Music International, Inc.",
+            "Southern Music Publishing Co. Inc.",
+            "Capitol Records, Inc.",
+            "das Boot recording",
+            "EMI MFG."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Classic Rock",
+            "Prog Rock",
+            "Art Rock"
+        ],
+        "id": 728651,
+        "barcode": [
+            "7 2435-36111-2 5",
+            "0724353611125",
+            "CDP 7243 5 361112 5-SK1",
+            "CDP 7243 5 36112 2 4",
+            "CDP 7243 5 36113 2 3",
+            "3-2-5 724353611224 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "IFPI 6100",
+            "724353611224 2-12-23 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "IFPI 1672",
+            "724353611224 2-1-21 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1678",
+            "2-1-30 724353611224 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1678",
+            "724353611224: 2-1-23 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "IFPI 1672",
+            "724353611224: 2-1-23 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "IFPI 166M",
+            "724353611224: MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 166K",
+            "3-2-2 724353611224 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "none",
+            "3-2-4 724353611224:· MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 167E",
+            "724353611224: MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1678",
+            "724353611224: MASTERED BY EMI MFG. 3-2-4",
+            "IFPI L044",
+            "ifpi 1681",
+            "M1S5 724 353611323RE1 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "IFPI 6100",
+            "3-1-27 724 353611323RE1 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1686",
+            "3-1-25 724 353611323RE1 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1690",
+            "3-1-18 724 353611323RE1 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1682",
+            "724 353611323RE1:: 4-1-21 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1685",
+            "4-1-20 724 353611323RE1:: MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1682",
+            "724 353611323RE1:: MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1686",
+            "8-1-2 724 353611323RE1",
+            "IFPI L044",
+            "ifpi 1685",
+            "8-1-4 724 353611323RE1 MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1684",
+            "724 353611323RE1:· MASTERED BY EMI MFG.",
+            "IFPI L044",
+            "ifpi 1684",
+            "724 353611323RE1 MASTERED BY EMI MFG. 8-1-16",
+            "IFPI L044",
+            "ifpi 163C"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/728651-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "CDP 7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/7P5MqADZtJJZ7oWGFx6NBZl4ghrFHfI7gn4xrzeB4go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODY1/MS0xNTE4MzgzNDkz/LTY0NTcuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/DZyTB7WN8E18s7_BfLbm3MwwaGeCLMEu5GucmYTW4l0/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODY1/MS0xNTE4MzgzNDkz/LTY0NTcuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/releases/728651",
+        "community": {
+            "want": 118,
+            "have": 2315
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "O-card",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 299159,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/299159-Pink-Floyd-Music-1987-Ltd",
+        "title": "Pink Floyd Music (1987) Ltd.",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/299159"
+    },
+    {
+        "country": "Europe",
+        "year": "2018",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+        ],
+        "label": [
+            "Pink Floyd Records",
+            "Pink Floyd Records",
+            "Warner Music Group",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Parlophone Records Ltd.",
+            "Parlophone Records Ltd.",
+            "das boot recording",
+            "Bernie Grundman Mastering",
+            "Roger Waters Music Overseas Ltd.",
+            "Westminster Music Ltd.",
+            "TRO-Hampshire House Publishing Corp.",
+            "Pink Floyd Music Publishers Ltd."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 12569365,
+        "barcode": [
+            "0 190295 624019",
+            "0190295624019",
+            "PFRLP21 / 0190295624019-A",
+            "PFRLP21 / 0190295624019-B",
+            "PFRLP21 / 0190295624019-C",
+            "PFRLP21 / 0190295624019-D",
+            "3130338-01 A2 BG 0190295624019A",
+            "3130338-01 B2 BG 0190295624019B",
+            "3130338-02 C1 BG 0190295624019C",
+            "3130338-02 D1 BG 0190295624019D",
+            "B130338-01 A2 BG ᘳ 0190295624019A",
+            "B130338-01 B2 BG ᘳ 0190295624019B",
+            "B130338-02 C1 BG 0190295624019C",
+            "B130338-02 D1 BG 0190295624019D",
+            "BMI"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/release/12569365-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "PFRLP21",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/Kl3PsTdOa9ko-z7Q27V7ptzJud9Uij85DKpqThn6Cto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY5/MzY1LTE1Mzc3OTcy/NzYtNTc5Ny5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/qc7zRUUb7iYz4uXcE9dQXFH_xhNvcKOVGOWP2fFBSc0/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY5/MzY1LTE1Mzc3OTcy/NzYtNTc5Ny5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/12569365",
+        "community": {
+            "want": 341,
+            "have": 4835
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "text": "180g",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Reissue",
+                    "Remastered",
+                    "Stereo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1013539,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1013539-Pink-Floyd-Music-Publishers",
+        "title": "Pink Floyd Music Publishers",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/1013539"
+    },
+    {
+        "country": "UK & Europe",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Remastered"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 12457492,
+        "barcode": [
+            "7 24353 61112 5",
+            "724353611125",
+            "bel BIEM",
+            "PM499",
+            "0542",
+            "5361122 1:1:4 EMI UK",
+            "5361122 1 1:1:28 EMI UK ",
+            "IFPI L041",
+            "IFPI 1486",
+            "5361122 1:2:4 EMI UK",
+            "IFPI L041",
+            "IFPI 1476",
+            "5361122 1:1:4 EMI UK",
+            "IFPI L041",
+            "ifpi 1471",
+            "536113 2 3:2:1 EMI UK",
+            "536113 2 . 3:1:19 EMI UK",
+            "IFPI L041",
+            "ifpi 1473",
+            "536113 2 . 3:1:14 EMI UK",
+            "IFPI L041",
+            "IFPI 1455",
+            "536113 2 . 3:1:7 EMI UK",
+            "IFPI L041",
+            "ifpi 1473"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/12457492-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/V9Fhbt-DgFUY9gV2skBIqP1JS7xZKLAQWSpp_kPar5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/NDkyLTE1NDE0MTYy/MzQtMjM2Ni5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/qWkhOoq1hJPwZHHN05ciuqMmRaNad3MbztDUs-sdP9M/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/NDkyLTE1NDE0MTYy/MzQtMjM2Ni5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/12457492",
+        "community": {
+            "want": 82,
+            "have": 1924
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1768167,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1768167-Pink-Floyd-4",
+        "title": "Pink Floyd (4)",
+        "thumb": "https://i.discogs.com/PcwHXeWXMDX9sb4JhAzSx1Eu3330MZGFrZXfLUsgSV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3Njgx/NjctMTU4MTUyMTQ0/OS02MzYxLnBuZw.jpeg",
+        "cover_image": "https://i.discogs.com/JxHGYId8B8sp5y4xe6HfVxZH29HEUFqCzR3MEEXcUCc/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3Njgx/NjctMTU4MTUyMTQ0/OS02MzYxLnBuZw.jpeg",
+        "resource_url": "https://api.discogs.com/labels/1768167"
+    },
+    {
+        "country": "US",
+        "year": "2018",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Remastered"
+        ],
+        "label": [
+            "Pink Floyd Records",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 12580066,
+        "barcode": [
+            "888751843813"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/release/12580066-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "PFRLP21",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/lVA31fQTkgTDd5CQqLnlGwPLjHUf9dlSrg5lHoa2sEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgw/MDY2LTE1NDc0MTIx/NjItNDA2My5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/VgPZw0g75NZbaPToumr9nH_VR-fWiPIQOMh32JTCjfA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgw/MDY2LTE1NDc0MTIx/NjItNDA2My5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/12580066",
+        "community": {
+            "want": 210,
+            "have": 2793
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "text": "180g Heavyweight Vinyl",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Europe",
+        "year": "1980",
+        "format": [
+            "Box Set",
+            "Compilation",
+            "Limited Edition",
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album"
+        ],
+        "label": [
+            "EMI Electrola"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 714734,
+        "barcode": [
+            "1C172-50203/04",
+            "1C172-04222/23",
+            "1C072-04096",
+            "1C072-04550",
+            "1C072-04917",
+            "1C072-05054",
+            "1C064-05249",
+            "1C064-96918",
+            "1C064-98434",
+            "1C198-53837/38",
+            "STEMRA"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 714734,
+        "master_url": "https://api.discogs.com/masters/714734",
+        "uri": "/Pink-Floyd-The-Pink-Floyd-Collection/master/714734",
+        "catno": "1C198-53826/38",
+        "title": "Pink Floyd - The Pink Floyd Collection",
+        "thumb": "https://i.discogs.com/FYV6VRoNOu3CJPuk-9VkRWyh73iyW6FazvB6faztsII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgy/NDgtMTI5NTk1ODc2/NC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/xRNV2-cmcFx4jlSdunjAafNc4sL8FRYUKk6FMMsESN8/rs:fit/g:sm/q:90/h:402/w:403/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgy/NDgtMTI5NTk1ODc2/NC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/masters/714734",
+        "community": {
+            "want": 660,
+            "have": 605
+        }
+    },
+    {
+        "country": "Portugal",
+        "genre": [
+            "Rock"
+        ],
+        "format": [
+            "Cassette",
+            "Album",
+            "Reissue",
+            "Unofficial Release"
+        ],
+        "style": [
+            "Classic Rock",
+            "Prog Rock"
+        ],
+        "id": 11562506,
+        "label": [
+            "Not On Label (Pink Floyd)"
+        ],
+        "type": "release",
+        "barcode": [
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 11703,
+        "master_url": "https://api.discogs.com/masters/11703",
+        "uri": "/release/11562506-Pink-Floyd-Pink-Floyd",
+        "catno": "none",
+        "title": "Pink Floyd - Pink Floyd",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/releases/11562506",
+        "community": {
+            "want": 422,
+            "have": 2
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Cassette",
+                "qty": "1",
+                "descriptions": [
+                    "Album",
+                    "Reissue",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Hungary",
+        "year": "1983",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation"
+        ],
+        "label": [
+            "Favorit",
+            "EMI Records Ltd.",
+            "EMI Records Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Artisjus",
+            "Globus Nyomda",
+            "Pink Floyd Music Publishing Ltd.",
+            "Chappell Music Ltd.",
+            "Morgan Studios",
+            "New Roydonia Studios",
+            "Abbey Road Studios",
+            "Britannia Row Studios",
+            "Super Bear Studios",
+            "Producers Workshop",
+            "Air Studios",
+            "Producers Workshop",
+            "Britannia Row Studios",
+            "Abbey Road Studios"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 1716498,
+        "barcode": [
+            "SLPXL 17826-A",
+            "SLPXL 17826-B",
+            "SLPXL 17826-A 11 P SI",
+            "22",
+            "SLPXL 17826-B 1 P SI",
+            "2-2",
+            "Artisjus"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 10274,
+        "master_url": "https://api.discogs.com/masters/10274",
+        "uri": "/release/1716498-Pink-Floyd-Best-Of-Pink-Floyd",
+        "catno": "SLPXL 17826",
+        "title": "Pink Floyd - Best Of Pink Floyd",
+        "thumb": "https://i.discogs.com/Mtd5-kKs4mkzAkQDrFEb_9XN-pGXgzjrN2A4pZywsoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY0/OTgtMTQ1NTY0MDA0/OS0yMzc2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/ibN3jrF2xlL7hRBpTbPq67ZFYUPHvX8JgANLGgiYXWQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY0/OTgtMTQ1NTY0MDA0/OS0yMzc2LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/1716498",
+        "community": {
+            "want": 169,
+            "have": 732
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Australia",
+        "year": "1988",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Box Set",
+            "Compilation",
+            "Limited Edition"
+        ],
+        "label": [
+            "EMI"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 10398494,
+        "barcode": [
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 586673,
+        "master_url": "https://api.discogs.com/masters/586673",
+        "uri": "/release/10398494-Pink-Floyd-Pink-Floyd",
+        "catno": "PFB1",
+        "title": "Pink Floyd - Pink Floyd",
+        "thumb": "https://i.discogs.com/7MTovaKqliVf9C8SR8uWfMWcghIktRD3NuHya_qey_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NDk0LTE0OTY2NzAz/ODgtOTY2OC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/PA2845dsKCkn3QGwd54Rb4emqA7MHmunWuKPDJNQkSw/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NDk0LTE0OTY2NzAz/ODgtOTY2OC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/10398494",
+        "community": {
+            "want": 287,
+            "have": 251
+        },
+        "format_quantity": 12,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "12",
+                "descriptions": [
+                    "LP"
+                ]
+            },
+            {
+                "name": "Box Set",
+                "qty": "1",
+                "descriptions": [
+                    "Compilation",
+                    "Limited Edition"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Europe",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "Sony Music Entertainment",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "Westminster Music Ltd.",
+            "Roger Waters Music Overseas Ltd.",
+            "Muziekuitgeverij Artemis B.V.",
+            "Pink Floyd Music Publishers Ltd.",
+            "peermusic",
+            "das boot recording",
+            "EMI Uden",
+            "EMI Uden"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock",
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 4465640,
+        "barcode": [
+            "7 24353 61112 5",
+            "0724353611125",
+            "LC0542",
+            "PM499",
+            "bel BIEM",
+            "5361122",
+            "5361132",
+            "EMI UDEN 5361122 @ 2 2-2-12-NL",
+            "IFPI L047",
+            "ifpi 15A5",
+            "EMI UDEN 5361122 @ 2 2-3-17-NL",
+            "IFPI L047",
+            "ifpi 1507",
+            "EMI UDEN 5361122 @ 1 1-2-9-NL",
+            "IFPI L046",
+            "ifpi 155D",
+            "EMI UDEN 5361122 @ 1 1-2-8-NL",
+            "IFPI L046",
+            "ifpi 15FC",
+            "EMI UDEN 5361122 @ 2 2-2-12-NL",
+            "IFPI L047",
+            "ifpi 1538",
+            "EMI UDEN 5361122 @ 2 2-1-12-NL",
+            "IFPI L047",
+            "ifpi 15BE",
+            "EMI UDEN 5361122 @ 2 2-1-1-NL",
+            "IFPI L047",
+            "ifpi 15BF",
+            "EMI UDEN 5361122 @ 2 2-4-8-NL",
+            "IFPI L047",
+            "ifpi 1501",
+            "EMI UDEN 5361122 @ 1 2-1-16-NL",
+            "IFPI L046",
+            "ifpi 1507",
+            "EMI UDEN 5361122 @ 2 2-2-10-NL",
+            "IFPI L047",
+            "ifpi 15EC",
+            "EMI UDEN 5361122 @ 2 2-2-27-NL",
+            "IFPI L047",
+            "ifpi 15FB",
+            "EMI UDEN 5361122 @ 1 2-1-31-NL",
+            "IFPI L046",
+            "ifpi 15F9",
+            "EMI UDEN 5361122 @ 2 2-3-11-NL",
+            "IFPI L047",
+            "ifpi 15EC",
+            "EMI UDEN 5361122 @ 1 2-1-9-NL",
+            "IFPI L046",
+            "ifpi 15F8",
+            "EMI UDEN 5361122 @ 2 2-3-11-NL",
+            "IFPI L047",
+            "ifpi 15BC",
+            "EMI UDEN 5361122 @ 2 1-3-7-NL",
+            "IFPI L046",
+            "ifpi 1532",
+            "EMI UDEN 5361122 @ 1 2-1-21-NL",
+            "IFPI L046",
+            "ifpi 1599",
+            "EMI UDEN 5361122 @ 1 1-3-6-NL",
+            "IFPI L046",
+            "ifpi 15EF",
+            "EMI UDEN 5361122 @ 2 2-1-7-NL",
+            "IFPI L047",
+            "ifpi 15E3",
+            "EMI UDEN 5361122 @ 1 1-1-1-NL",
+            "IFPI L046",
+            "ifpi 1501",
+            "EMI UDEN 5361122 @ 2 2-1-9-NL",
+            "IFPI L047",
+            "ifpi 15EC",
+            "EMI UDEN 5361122 @ 1 1-3-5-NL",
+            "IFPI L046",
+            "ifpi 1550",
+            "EMI UDEN 5361122 @ 1 2-2-29-NL",
+            "IFPI L047",
+            "ifpi 1511",
+            "EMI UDEN 5361122 @ 2 2-1-4-NL",
+            "IFPI L047",
+            "ifpi 15BC",
+            "EMI UDEN 5361132 @ 5 4-6-7-NL",
+            "IFPI L046",
+            "ifpi 1516",
+            "EMI UDEN 5361132  @ 5  4-7-17-NL",
+            "IFPI L046",
+            "ifpi 1509",
+            "EMI UDEN  5361132 @ 5 4-5-6-NL",
+            "IFPI L046",
+            "ifpi 1599",
+            "EMI UDEN 5361132 @ 5 4-1-17-NL",
+            "IFPI L046",
+            "ifpi 1548",
+            "EMI UDEN 5361132 @ 5 4-1-23-NL",
+            "IFPI L046",
+            "ifpi15AD",
+            "EMI UDEN 5361132 @ 3 1-1-12-NL",
+            "IFPI L047",
+            "ifpi 15FB",
+            "EMI UDEN 5361132 @ 3 1-1-7-NL",
+            "IFPI L047",
+            "ifpi 15A7",
+            "EMI UDEN 5361132 @ 5 4-8-3-NL",
+            "IFPI L046",
+            "ifpi 1512",
+            "EMI UDEN 5361132 @ 5 4-1-4-NL",
+            "IFPI L046",
+            "ifpi 15E7",
+            "EMI UDEN 5361132 @ 5 4-1-15-NL",
+            "IFPI L046",
+            "ifpi 15BE",
+            "EMI UDEN 5361132 @ 5 4-1-23-NL",
+            "IFPI L046",
+            "ifpi15AD",
+            "EMI UDEN 5361132 @ 5 4-4-19-NL",
+            "IFPI L046",
+            "ifpi 1517",
+            "EMI UDEN 5361132  @ 5  4-7-1-NL",
+            "IFPI L046",
+            "ifpi 15B1",
+            "EMI UDEN 5361132  @ 5  4-1-27-NL",
+            "IFPI L046",
+            "ifpi 15D9",
+            "EMI UDEN 5361132 @ 3 1-1-13-NL",
+            "IFPI L047",
+            "ifpi 1580",
+            "EMI UDEN 5361132 @ 3 1-1-14-NL",
+            "IFPI L047",
+            "ifpi 154A",
+            "EMI UDEN 5361132 @ 5 4-1-28-NL",
+            "IFPI L046",
+            "ifpi 15E1",
+            "EMI UDEN 5361132 @ 5 4-1-14-NL",
+            "IFPI L046",
+            "ifpi 15E3",
+            "EMI UDEN 5361132 @ 3 1-2-12-NL",
+            "IFPI L047",
+            "ifpi 15F2",
+            "EMI UDEN 5361132 @ 5 4-6-18-NL",
+            "IFPI L046",
+            "ifpi 15F9"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/4465640-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/K1V8hV2vNIkYxe60FcZQLAmIhYKaBydtAFeksQx0YUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU2/NDAtMTQ4MDAwNjIy/Ny0zOTc1LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/w7tqgtX2ROmOOYQ5qXyJmtr8JSbADgzlcdMdeY7IJH4/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU2/NDAtMTQ4MDAwNjIy/Ny0zOTc1LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/4465640",
+        "community": {
+            "want": 88,
+            "have": 1122
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "O-Card",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Europe",
+        "year": "2011",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "EMI",
+            "EMI Music Ltd.",
+            "Das Boot Recording",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "EMI Records Ltd.",
+            "Roger Waters Music Overseas Ltd.",
+            "Muziekuitgeverij Artemis B.V.",
+            "Westminster Music Ltd.",
+            "TRO-Hampshire House Publishing Corp.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music Publishers Ltd.",
+            "Pink Floyd Music Publishers Inc.",
+            "www.takt.eu"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 3237652,
+        "barcode": [
+            "5099902896625",
+            "5 099902 896625",
+            "[www.takt.eu logo] 2100003171542 0289662",
+            "IFPI LK97",
+            "IFPI 9R80",
+            "IFPI 9R96",
+            "IFPI 9R97",
+            "IFPI UU008",
+            "ifpi 9R82",
+            "IFPI UU015"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/release/3237652-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "50999 028966 2 5",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/ngkjNq3HzDqL_c_fmrihXpkuqm-6fEsx2JZK7Gkeck4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc2/NTItMTMzMTQ4NDIw/NC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/hV8xvUTrvYk69cDIC_3drNiXut_Wb6vIcEwfWZfdGag/rs:fit/g:sm/q:90/h:485/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc2/NTItMTMzMTQ4NDIw/NC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3237652",
+        "community": {
+            "want": 84,
+            "have": 1935
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "1",
+                "text": "Gatefold Cardboard Sleeve",
+                "descriptions": [
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "UK",
+        "year": "1970",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Stereo"
+        ],
+        "label": [
+            "Columbia",
+            "Columbia",
+            "EMI",
+            "The Best Of",
+            "Habo",
+            "N.V. Bovema",
+            "Bovema / EMI Studios",
+            "Bovema / EMI Studios"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock",
+            "Pop"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 1727469,
+        "barcode": [
+            "BIEM",
+            "5C 054-04299-A",
+            "5C 054-04299-B",
+            "04299A//13.153-1",
+            "04299B//13.154-1"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 44236,
+        "master_url": "https://api.discogs.com/masters/44236",
+        "uri": "/release/1727469-The-Pink-Floyd-The-Best-Of-The-Pink-Floyd",
+        "catno": "5C 054-04299",
+        "title": "The Pink Floyd* - The Best Of The Pink Floyd",
+        "thumb": "https://i.discogs.com/CodT6axT2vssL-2imGJoUQYD2LATRyh5bzQZfktr4w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc0/NjktMTYxNjc3OTQz/My0xNTUzLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/5_7CzT8VKDBxBv85nEsd62Yzfz7_5XPHMGEhHrD0-Ps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc0/NjktMTYxNjc3OTQz/My0xNTUzLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/1727469",
+        "community": {
+            "want": 541,
+            "have": 1477
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Black Label",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Stereo"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Europe",
+        "year": "1980",
+        "format": [
+            "Box Set",
+            "Compilation",
+            "Limited Edition",
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Reissue",
+            "Vinyl",
+            "LP",
+            "Album"
+        ],
+        "label": [
+            "EMI Electrola"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 2408248,
+        "barcode": [
+            "1C172-50203/04",
+            "1C172-04222/23",
+            "1C072-04096",
+            "1C072-04550",
+            "1C072-04917",
+            "1C072-05054",
+            "1C064-05249",
+            "1C064-96918",
+            "1C064-98434",
+            "1C198-53837/38",
+            "STEMRA"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 714734,
+        "master_url": "https://api.discogs.com/masters/714734",
+        "uri": "/Pink-Floyd-The-Pink-Floyd-Collection/release/2408248",
+        "catno": "1C198-53826/38",
+        "title": "Pink Floyd - The Pink Floyd Collection",
+        "thumb": "https://i.discogs.com/FYV6VRoNOu3CJPuk-9VkRWyh73iyW6FazvB6faztsII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgy/NDgtMTI5NTk1ODc2/NC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/xRNV2-cmcFx4jlSdunjAafNc4sL8FRYUKk6FMMsESN8/rs:fit/g:sm/q:90/h:402/w:403/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDgy/NDgtMTI5NTk1ODc2/NC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/2408248",
+        "community": {
+            "want": 431,
+            "have": 382
+        },
+        "format_quantity": 13,
+        "formats": [
+            {
+                "name": "Box Set",
+                "qty": "1",
+                "descriptions": [
+                    "Compilation",
+                    "Limited Edition"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Reissue"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Canada",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "Capitol Records",
+            "EMI Music Canada",
+            "EMI MFG.",
+            "EMI Music Canada",
+            "EMI Music Canada",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "Das Boot Recording"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Classic Rock"
+        ],
+        "id": 575044,
+        "barcode": [
+            "7 2435-36111-2 5",
+            "724353611125",
+            "7243 5 36112 2 4",
+            "7243 5 36113 2 3",
+            "724353611224 MASTERED BY EMI MFG.",
+            "724 353611323RE1 MASTERED BY EMI MFG.",
+            "2-2-10",
+            "CA 2-2-9",
+            "CA 8-1-9",
+            "4-1-15",
+            "IFPI L044",
+            "ifpi 1F08",
+            "IFPI 1F07"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/575044-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/9u_Q4FpnLZYrsqpnQ0TjqnbboXPGf4dk_7cJZYrzpvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTA0/NC0xMzU1NDM1ODY3/LTczMjQuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/SXJNC6Bl7gRd9ZtmeunkAb_l5Ngg4aw53rwlBa80L-s/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTA0/NC0xMzU1NDM1ODY3/LTczMjQuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/releases/575044",
+        "community": {
+            "want": 71,
+            "have": 876
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "O-Card",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "UK",
+        "year": "2003",
+        "format": [
+            "DVD",
+            "DVD-Video",
+            "PAL"
+        ],
+        "label": [
+            "Direct Video Distribution",
+            "Video/Film Express",
+            "DVD UK Ltd",
+            "Otmoor Productions Limited/BBC",
+            "Direct Video Distribution UK Ltd",
+            "Direct Video Distribution UK Ltd"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock",
+            "Non-Music"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Interview"
+        ],
+        "id": 268879,
+        "barcode": [
+            "5 060009 233156",
+            "43870 + Vid"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 268879,
+        "master_url": "https://api.discogs.com/masters/268879",
+        "uri": "/master/268879-Pink-Floyd-Syd-Barrett-Various-The-Pink-Floyd-Syd-Barrett-Story",
+        "catno": "DVDUK009D",
+        "title": "Pink Floyd & Syd Barrett / Various - The Pink Floyd & Syd Barrett Story",
+        "thumb": "https://i.discogs.com/Z8qa0eKkF-dLF0-ZtvQ5pfcFrFt5DNel0b1Fe8j6g5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDQy/My0xMzU2MDIyNDU2/LTQ4NTIuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/m6lxy45xegUx8LiuatREcyYKRU-yg0BhNi7ZG1p1NK8/rs:fit/g:sm/q:90/h:860/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDQy/My0xMzU2MDIyNDU2/LTQ4NTIuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/masters/268879",
+        "community": {
+            "want": 209,
+            "have": 1236
+        }
+    },
+    {
+        "country": "UK & Europe",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "EMI Records Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "das boot recording",
+            "EMI Uden",
+            "EMI Uden"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock",
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 8904444,
+        "barcode": [
+            "7 24353 61112 5",
+            "724353611125",
+            "LC 0542",
+            "PM 499",
+            "bel BIEM",
+            "5361122",
+            "5361132",
+            "EMI UDEN 5361122 @ 2 2-2-27-NL",
+            "IFPI L047",
+            "ifpi 15AA",
+            "EMI UDEN 5361122 @ 2 2-2-21-NL",
+            "IFPI L047",
+            "[not entered]",
+            "EMI UDEN 5361122 @ 2 2-2-35-NL",
+            "IFPI L047",
+            "none",
+            "EMI UDEN 5361122 @ 1 2-1-28-NL",
+            "IFPI L046",
+            "ifpi 1509",
+            "EMI UDEN 5361122 @ 2 2-2-4-NL",
+            "IFPI L047",
+            "ifpi 1511",
+            "EMI UDEN 5361122 @ 1 2-1-38-NL",
+            "IFPI L046",
+            "IFPI 1508",
+            "EMI UDEN 5361122 @ 2 2-2-12-NL",
+            "IFPI L047",
+            "ifpi 1538",
+            "EMI UDEN 5361122 @ 2 2-1-4-NL",
+            "ifpi 15BC",
+            "IFPI L047",
+            "EMI UDEN 5361122 @ 2 020418-NL",
+            "IFPI L047",
+            "ifpi 1511",
+            "EMI UDEN 5361122 @ 2 1-11-17-NL",
+            "IFPI L047",
+            "ifpi 15F4",
+            "EMI UDEN 5361122 @ 2 2-3-11-NL",
+            "IFPI L047",
+            "ifpi 15EC",
+            "EMI UDEN 5361122 @ 2 2-2-21-NL",
+            "IFPI L047",
+            "IFPI 155Q",
+            "EMI UDEN 5361122 @ 1 1-3-6-NL",
+            "IFPI L046",
+            "IFPI 15BF",
+            "EMI UDEN 5361122 @ 2 2-1-5-NL",
+            "IFPI L047",
+            "ifpi 1511",
+            "EMI UDEN 5361132 @ 3 1-2-7-NL",
+            "none",
+            "IFPI L046",
+            "EMI UDEN 5361132 @ 5 [?-?-?-NL]",
+            "IFPI L046",
+            "none",
+            "EMI UDEN 5361132 @ 5 4-1-22-NL",
+            "IFPI L046",
+            "[not entered]",
+            "EMI UDEN 5361132 @ 5 4-7-6-NL",
+            "IFPI L046",
+            "none",
+            "EMI UDEN 5361132 @ 5 4-4-18-NL",
+            "IFPI L046",
+            "ifpi 15E7",
+            "EMI UDEN 5361132 @ 3 1-1-7-NL",
+            "[not entered]",
+            "ifpi 15A7",
+            "EMI UDEN 5361122 @ 5 4-1-36-NL",
+            "IFPI L046",
+            "IFPI 1550",
+            "EMI UDEN 5361132 @ 5 4-1-23-NL",
+            "[not entered]",
+            "ifpi 15E7",
+            "EMI UDEN 5361132 @ 4 2-1-16 NL",
+            "IFPI L047",
+            "ifpi 15 AD",
+            "EMI UDEN 5361132 @ 5 040812-NL",
+            "IFPI L046",
+            "IFPI 15A4",
+            "EMI UDEN 5361132 @ 5 4-7-6-NL",
+            "IFPI L046",
+            "IFPI 15F0",
+            "EMI UDEN 5361132 @ 5 4-7-8-NL",
+            "IFPI L046",
+            "IFPI 15EF",
+            "EMI UDEN 5361132 @ 5 4-1-22-NL",
+            "IFPI L046",
+            "IFPI 159C",
+            "EMI UDEN 5361132 @ 5 4-1-15-NL",
+            "IFPI L046",
+            "none",
+            "EMI UDEN 5361132 @ 3 1-1-7-NL",
+            "IFPI L047",
+            "ifpi 15A7",
+            "EMI UDEN 5361132 @ 3 1-1-13-NL",
+            "none",
+            "IFPI L046"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/8904444-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/Y2W1JTtshg4ZNPbjE2Pvgm7tvrC1y36GrtWb9a0eAIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDQ0/NDQtMTU2MjIxODcz/OS01ODY0LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/LInak87fcIxLGwQP0sJr6TDdmvNfC49g0_cWvonr9E4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDQ0/NDQtMTU2MjIxODcz/OS01ODY0LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8904444",
+        "community": {
+            "want": 70,
+            "have": 619
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "genre": [
+            "Rock"
+        ],
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Reissue"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Classic Rock"
+        ],
+        "id": 16199070,
+        "label": [
+            "Capitol Records",
+            "EMI Records Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music (1987) Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "Capitol Records, Inc.",
+            "Sony DADC",
+            "Sony DADC"
+        ],
+        "type": "release",
+        "barcode": [
+            "CDP 7243 5 361112 5-SK1",
+            "DIDX 233017 1",
+            "IFPI L328",
+            "IFPI 7214",
+            "DIDX 233020 L4 1A 03",
+            "IFPI L424",
+            "IFPI 7249"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/16199070-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "CDP 7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/FOkQKIBnHxLhGA1RvLjEzEp66mfFKJ9ztD0-NCDGchQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk5/MDcwLTE2MDkwMTUy/NzYtMjg0OC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/gfZeu6Irc8prPF-4980Zq3l3sNAFZpEwgplWhY9uWxg/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk5/MDcwLTE2MDkwMTUy/NzYtMjg0OC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/16199070",
+        "community": {
+            "want": 21,
+            "have": 597
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Reissue"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1384121,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1384121-Pink-Floyd-Papersleeve-Collection",
+        "title": "Pink Floyd Papersleeve Collection",
+        "thumb": "https://i.discogs.com/Eu7hNy6pHvJW3VXzQRruJdtscfCDBfxbsdDBu0w76Ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzODQx/MjEtMTUxMjgxMTk4/Ni01MDIxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/MNmmRgjcLZxfeSYH6rs-poXOz9bbsz4Wylh_KxZRCLQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzODQx/MjEtMTUxMjgxMTk4/Ni01MDIxLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/labels/1384121"
+    },
+    {
+        "id": 1338128,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1338128-Pink-Floyd-Remastered-Studio-Collection",
+        "title": "Pink Floyd : Remastered-Studio-Collection",
+        "thumb": "https://i.discogs.com/V5ij_h4KjDTsDlzkXDa2qatPaPmIiA-lSxKQ1_5lYME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMzgx/MjgtMTUwNjI4MTc3/OS0zNzgzLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/AbfQ0UF2krO1psu0IuIU4AnPeER0iHP3KljuJma3VZg/rs:fit/g:sm/q:90/h:493/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMzgx/MjgtMTUwNjI4MTc3/OS0zNzgzLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/labels/1338128"
+    },
+    {
+        "country": "Australia",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "das boot recording",
+            "EMI Music Group Australasia",
+            "EMI Music Group Australasia",
+            "Digital Audio Technologies Australia"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 3434022,
+        "barcode": [
+            "7 24353 61112 5",
+            "724353611125",
+            "bel/BIEM",
+            "LC 0542",
+            "PM499",
+            "5361122",
+            "5361132",
+            "[DATA Logo] D.A.T.A. IFPIL 311 5361112/1 A E1",
+            "IFPIL 311",
+            "ifpi 2661",
+            "[DATA Logo] D.A.T.A. IFPIL 311 5361112/2 B E1",
+            "IFPIL 311",
+            "ifpi 2661"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/3434022-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/EE5lTvsNRD9B-8meXif1IMXqaXWXSMhooNQABg__Oyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzQw/MjItMTQ1NDcwNTM2/OC0zMzk1LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/ejTFRs5dl11sY5RSYojz6YNRSf3t95RtySZdOHjlYxM/rs:fit/g:sm/q:90/h:528/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzQw/MjItMTQ1NDcwNTM2/OC0zMzk1LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3434022",
+        "community": {
+            "want": 63,
+            "have": 543
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1710216,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1710216-Pink-Floyd-2",
+        "title": "Pink Floyd (2)",
+        "thumb": "https://i.discogs.com/qEvMnNrjTTDGIjMEYVpiEU4z6Cd-yJlvPOpn61E3dNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MTAy/MTYtMTU3MTQ5MTI5/OC0yMjgxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/a_nta_hGDPn-s_E6DBOw9QV7msbTbf7Mp_TMrcrqUZ8/rs:fit/g:sm/q:90/h:352/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MTAy/MTYtMTU3MTQ5MTI5/OC0yMjgxLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/labels/1710216"
+    },
+    {
+        "country": "Japan",
+        "year": "1971",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Promo",
+            "Stereo"
+        ],
+        "label": [
+            "Odeon",
+            "Toshiba Musical Industries Ltd."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 8408611,
+        "barcode": [
+            "PRP-32-A",
+            "PRP-32-B"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 0,
+        "master_url": null,
+        "uri": "/Pink-Floyd-The-Pink-Floyd/release/8408611",
+        "catno": "PRP-32",
+        "title": "Pink Floyd - The Pink Floyd",
+        "thumb": "https://i.discogs.com/ZC2kxTqAAfisQYStFZu5a7mCat3YeMbQMaWQ54735Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDg2/MTEtMTQ2MTAyNzA5/My02Mjk3LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/xBliQGdOXBUCgf_LuRo8_f73q3ll7qtSsc1lghbbRJQ/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDg2/MTEtMTQ2MTAyNzA5/My02Mjk3LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8408611",
+        "community": {
+            "want": 342,
+            "have": 23
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Promo",
+                    "Stereo"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "UK & Europe",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered",
+            "Stereo"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "EMI UK"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock",
+            "Prog Rock"
+        ],
+        "id": 4679500,
+        "barcode": [
+            "7 24353 61112 5",
+            "LC0542",
+            "BEL BIEM",
+            "UK:5361112",
+            "F:PM499",
+            "IFPI L041",
+            "5361122 1:1:8 EMI UK",
+            "536113 2 . 4:1:3 EMI UK",
+            "5361122 1:1:9 EMI UK",
+            "536113 2 . 3:1:7 EMI UK",
+            "5361122 1:1:4 EMI UK",
+            "536113 2 . 3:1:3 EMI UK",
+            "5361122 1:1:27.  EMI UK",
+            "536113 2 4 1:17 EMI UK",
+            "5361122 1:1:14  EMI UK",
+            "536113 2 . 3:1:19 EMI UK",
+            "IFPI 1467",
+            "5361122 1:1:12  EMI UK",
+            "IFPI 1460",
+            "536113 2 . 4:1:4 EMI UK",
+            "IFPI 1410",
+            "5361122 1:1:3 EMI UK",
+            "IFPI 1410",
+            "536113 2 . 3:1:8 EMI UK",
+            "IFPI 1487",
+            "5361122 1:1:4 EMI UK",
+            "IFPI 1471",
+            "536113 2 . 3:1:7 EMI UK",
+            "IFPI 1473",
+            "536112 2 . 1:1:32 EMI UK",
+            "IFPI 1486",
+            "536113 2 . 3:1:25 EMI UK",
+            "IFPI 1473"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/4679500-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/P8dZj9bpIxt8lT1A997dSAgoUMAtrJAQiZ429dYBJe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzk1/MDAtMTM3MjAwMzI1/Ny0zODA0LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/iHl1a8uQZv2GazWtFAklPWkipyBweLwDbFFoG7K4ft8/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzk1/MDAtMTM3MjAwMzI1/Ny0zODA0LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/4679500",
+        "community": {
+            "want": 77,
+            "have": 614
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "O-Card",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered",
+                    "Stereo"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "1988",
+        "format": [
+            "Vinyl",
+            "10\"",
+            "45 RPM",
+            "Unofficial Release"
+        ],
+        "label": [
+            "Sigma Six"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 1069157,
+        "barcode": [
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 0,
+        "master_url": null,
+        "uri": "/release/1069157-Pink-Floyd-Pink-Floyd",
+        "catno": "LSD 67",
+        "title": "Pink Floyd - Pink Floyd",
+        "thumb": "https://i.discogs.com/dXuumCwQUkMJCZ_ge6iVMhjjyFIbsiz1RlD8SfB7YnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkx/NTctMTUzNzE3NjI3/NC0xNDIwLm1wbw.jpeg",
+        "cover_image": "https://i.discogs.com/P1XBxONS80F_ndJ1LpGHOYzC5SUIr1AsoI91Q6tszgo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkx/NTctMTUzNzE3NjI3/NC0xNDIwLm1wbw.jpeg",
+        "resource_url": "https://api.discogs.com/releases/1069157",
+        "community": {
+            "want": 75,
+            "have": 161
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Red Transparent",
+                "descriptions": [
+                    "10\"",
+                    "45 RPM",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 838649,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/838649-Pink-Floyd-Music",
+        "title": "Pink Floyd Music",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/838649"
+    },
+    {
+        "country": "UK & Europe",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered",
+            "Repress"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "EMI Records Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "das boot recording",
+            "EMI Uden"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock",
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 8370033,
+        "barcode": [
+            "7 24353 61112 5",
+            "72435361112 5",
+            "LC0542",
+            "PM499",
+            "bel BIEM",
+            "EMI UDEN 5361122 @ 1 010501",
+            "IFPI L046",
+            "IFPI AAH26",
+            "EMI UDEN 5361132 @ 5 040902-NL",
+            "IFPI L046",
+            "IFPI 15F7",
+            "EMI UDEN 5361122 @ 2 020422-NL",
+            "IFPI L047",
+            "ifpi AAHG5",
+            "EMI UDEN 5361132 @ 5 040809-NL",
+            "IFPI L046",
+            "ifpi AAHD2",
+            "EMI UDEN 5361122 @ 1 010503",
+            "IFPI L046",
+            "ifpi AAHG5",
+            "EMI UDEN 5361132 @ 5 040905",
+            "IFPI L046",
+            "ifpi AAH39",
+            "EMI UDEN 5361122 @ 2 020420-NL",
+            "IFPI L047",
+            "ifpi AAH68",
+            "EMI UDEN 5361132 @ 5 040817-NL",
+            "IFPI L046",
+            "ifpi AAHA2",
+            "EMI UDEN 5361122 @ 2 020415-NL",
+            "IFPI L047",
+            "ifpi 15EB",
+            "EMI UDEN 5361132 @ 5 040811-NL",
+            "IFPI L046",
+            "ifpi AAHF6",
+            "EMI UDEN 5361122 @ 2 020414-NL",
+            "IFPI L047",
+            "ifpi 1520",
+            "EMI UDEN 5361132 @ 5 040810-NL",
+            "IFPI L046",
+            "none",
+            "EMI UDEN 5361122 @ 2 020417-NL",
+            "IFPI L047",
+            "ifpi 15EB",
+            "EMI UDEN 5361132 @ 5 040814-NL",
+            "IFPI L046",
+            "ifpi AAHF6",
+            "EMI UDEN 5361122 @ 2 020419-NL",
+            "IFPI L047",
+            "ifpi AAHE6",
+            "EMI UDEN 5361132 @ 5 040817-NL",
+            "IFPI L046",
+            "ifpi AAH38",
+            "EMI UDEN 5361122 @ 2 020422-NL",
+            "IFPI L047",
+            "ifpi AAH64",
+            "EMI UDEN 5361132 @ 5 040809-NL",
+            "IFPI L046",
+            "ifpi AAHB8",
+            "EMI UDEN 5361122 @ 1 010506",
+            "IFPI L046",
+            "IFPI AAHY9",
+            "EMI UDEN 5361122 @ 5 041003",
+            "IFPI L046",
+            "IFPI AAHY9",
+            "EMI UDEN 5361122 @ 1 010605",
+            "IFPI L046",
+            "AAHP9",
+            "EMI UDEN 5361132 @ 5 040910",
+            "IFPI L046",
+            "AAHP4",
+            "EMI UDEN 5361132 @1 010607",
+            "IFPI L046ifpi",
+            "IFPI AAHT0",
+            "EMI UDEN 5361132 @2 041003",
+            "IFPI L046",
+            "IFPI AAHZ0"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/8370033-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/SDLX9AwW5IrgkdzuBnkPcIHAYKw3YBnUZLGWRmT24V0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzAw/MzMtMTQ2MDI4ODA3/NS03MjUxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/MGm7fwoKC0k-i6J9lhSLj81gYXNr55gGk_9kRMbYjBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzAw/MzMtMTQ2MDI4ODA3/NS03MjUxLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8370033",
+        "community": {
+            "want": 62,
+            "have": 457
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "Slipcase",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered",
+                    "Repress"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Italy",
+        "year": "1986",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Vinyl",
+            "LP",
+            "Album",
+            "Box Set",
+            "Compilation"
+        ],
+        "label": [
+            "EMI",
+            "EMI ITALIANA S.p.A."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 5895410,
+        "barcode": [
+            "3C154-50203/04",
+            "3C154-04222/23",
+            "3C064-04096",
+            "3C064-04550",
+            "3C064-04917",
+            "3C064-05054",
+            "3C064-05249",
+            "3C064-96918",
+            "3C064-98434",
+            "3C164-63410/11"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 714734,
+        "master_url": "https://api.discogs.com/masters/714734",
+        "uri": "/release/5895410-Pink-Floyd-The-Pink-Floyd-Collection",
+        "catno": "3C-162-53 826/38",
+        "title": "Pink Floyd - The Pink Floyd Collection",
+        "thumb": "https://i.discogs.com/PXZbqc-61Vyt_DDz9mB4VJKyxSjkzKeH26LjJbl8_Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTU0/MTAtMTQzMDE1MTQ0/OS0zMTQ5LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/q0UbGKbba4r9RxFpNOmw5hcsBol81iwAGVxWU39JK7U/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTU0/MTAtMTQzMDE1MTQ0/OS0zMTQ5LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/5895410",
+        "community": {
+            "want": 229,
+            "have": 223
+        },
+        "format_quantity": 13,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "text": "A Nice Pair",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "text": "Ummagumma",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Soundtrack From The Film \"More\"\"",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Atom Heart Mother",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Meddle",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Obscured By Clouds",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "The Dark Side Of The Moon",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Wish You Were Here",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "\"Animals",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "text": "The Wall",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "Box Set",
+                "qty": "1",
+                "descriptions": [
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "year": "1971",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Unofficial Release",
+            "White Label"
+        ],
+        "label": [
+            "Topsound Quality Records",
+            "Göteborgs Konserthus",
+            "Stadthalle Offenbach"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 953138,
+        "barcode": [
+            "RIEM",
+            "70001-A",
+            "70001-B"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 953138,
+        "master_url": "https://api.discogs.com/masters/953138",
+        "uri": "/master/953138-Pink-Floyd-Pictures-Of-Pink-Floyd-Vol-I",
+        "catno": "QR 179101",
+        "title": "Pink Floyd - Pictures Of Pink Floyd Vol. I",
+        "thumb": "https://i.discogs.com/ktyI7j0XrZWZ6luRDuTIRWJRPILnfZ4CmvtOKnFPxAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTI1/MTUtMTQzMDkyMDAw/My02NzM0LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/2HB_49d3u1G-MBTRzZwpi-TRkQI9HLAT_4F8C_86Q7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTI1/MTUtMTQzMDkyMDAw/My02NzM0LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/953138",
+        "community": {
+            "want": 236,
+            "have": 187
+        }
+    },
+    {
+        "country": "Europe",
+        "genre": [
+            "Rock"
+        ],
+        "format": [
+            "CD",
+            "Compilation",
+            "Reissue",
+            "Remastered"
+        ],
+        "style": [
+            "Art Rock"
+        ],
+        "id": 8816061,
+        "label": [
+            "EMI",
+            "EMI",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "Optimal Media GmbH"
+        ],
+        "type": "release",
+        "barcode": [
+            "7 24353 61112 5",
+            "LC0542",
+            "bel BIEM",
+            "PM499",
+            "ifpi L573",
+            "5361122 AD19221-01 manufactured by optimal media GmbH",
+            "5361122 AD19221-02 manufactured by optimal media GmbH"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/8816061-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/UTNLuBOmdWW29W-vXwpD2xP-14gBmuuLAf30Pd040j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTYw/NjEtMTU0MDM4MTIw/Ny04NTU3LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/f9LaLfzzm771s_MuTT3ZzS3x6OWVsd4RHkuOQFP_C7E/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTYw/NjEtMTU0MDM4MTIw/Ny04NTU3LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8816061",
+        "community": {
+            "want": 55,
+            "have": 342
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Reissue",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "1995",
+        "format": [
+            "CD",
+            "Album"
+        ],
+        "label": [
+            "Point Music",
+            "Point Music",
+            "Point Music",
+            "TRO-Hampshire House Publishing Corp.",
+            "Pink Floyd Music Publishers Inc.",
+            "PolyGram Classics & Jazz",
+            "PolyGram Classics & Jazz",
+            "Air Lyndhurst Hall",
+            "Olympic Studios",
+            "The Town House",
+            "Hook End Manor",
+            "Hook End Manor",
+            "Chop 'Em Out",
+            "Big Life Studios",
+            "Gateway Mastering",
+            "PMDC, USA"
+        ],
+        "type": "master",
+        "genre": [
+            "Classical"
+        ],
+        "style": [
+            "Modern Classical",
+            "Classic Rock"
+        ],
+        "id": 282698,
+        "barcode": [
+            "0028944662320",
+            "0 28944 66232 0",
+            "446 623-2 04@ AS",
+            "IFPI L006",
+            "IFPI 0314",
+            "MADE IN USA BY PMDC",
+            "LC 6024"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 282698,
+        "master_url": "https://api.discogs.com/masters/282698",
+        "uri": "/master/282698-The-London-Philharmonic-Orchestra-Us-And-Them-Symphonic-Pink-Floyd",
+        "catno": "446 623-2",
+        "title": "The London Philharmonic Orchestra - Us And Them (Symphonic Pink Floyd)",
+        "thumb": "https://i.discogs.com/kQ_tdmaWlGNaHfpfhOEFBhH2ijvUNbxHEmoG9EgL_QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg2/MTEtMTM1MTI2MTQx/OS0xOTI1LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/R5BMMagf24F3-38TgQ64UL4yX4iaYkvBCFTXAVS2zFE/rs:fit/g:sm/q:90/h:440/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg2/MTEtMTM1MTI2MTQx/OS0xOTI1LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/282698",
+        "community": {
+            "want": 84,
+            "have": 1527
+        }
+    },
+    {
+        "id": 2576479,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/2576479-Pink-Floyd-Archive",
+        "title": "Pink Floyd Archive",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/2576479"
+    },
+    {
+        "country": "Germany",
+        "year": "2001",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Picture Disc",
+            "Sampler",
+            "Unofficial Release"
+        ],
+        "label": [
+            "EMI"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Classic Rock",
+            "Prog Rock",
+            "Psychedelic Rock"
+        ],
+        "id": 3646715,
+        "barcode": [
+            "0024353611103",
+            "536111 P A",
+            "536111 P B"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/3646715-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "PFPD-1",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/fue-jnzEFBm7LTbm_tc29wesSGzBrgW0VC3YTZx9wYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY3/MTUtMTU4NDg5NDc0/Ni0xMzc1LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/x_nkMy7IDQGD7fFiwTnkQ7yuUokDfUj6gNmfp9oSF2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY3/MTUtMTU4NDg5NDc0/Ni0xMzc1LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3646715",
+        "community": {
+            "want": 288,
+            "have": 127
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Picture Disc",
+                    "Sampler",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "UK & Europe",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "EMI Records Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "das boot recording",
+            "EMI Uden"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock",
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 10680889,
+        "barcode": [
+            "7 24353 61112 5",
+            "UK:5361112",
+            "72435361112 5",
+            "LC 0542",
+            "PM499",
+            "bel/biem/S.I.A.E",
+            "EMI UDEN 5361122 @ 1 1-3-3-NL",
+            "EMI UDEN 5361132 @ 3 1-1-1-NL",
+            "IFPI L046",
+            "IFPI L047",
+            "IFPI 2527",
+            "IFPI 2525",
+            "EMI UDEN 5361122 @ 1 2-1-17-NL",
+            "EMI UDEN 5361132 @ 5 4-4-31-NL",
+            "IFPI L046",
+            "IFPI L046",
+            "IFPI 2527",
+            "IFPI 2525",
+            "EMI UDEN 5361122 @ 1 2-1-14 NL",
+            "EMI UDEN 5361132 @ 3 1-1-3 NL",
+            "IFPI L046",
+            "IFPI L047",
+            "IFPI 2518",
+            "IFPI 2521",
+            "EMI UDEN 5361122 @ 1 2-1-18-NL",
+            "EMI UDEN 5361132 @ 5 4-4-16-NL",
+            "IFPI L046",
+            "IFPI L046",
+            "[unreadable]",
+            "[unreadable]",
+            "EMI UDEN 5361122 @ 2 1-3-15-NL",
+            "EMI UDEN 5361132 @ 5 4-4-13-NL",
+            "IFPI L047",
+            "IFPI L046",
+            "ifpi 2522",
+            "ifpi 2528",
+            "EMI UDEN 5361122 @ 1 1-3-4-NL",
+            "EMI UDEN 5361132 @ 4 2-1-8-NL",
+            "IFPI L046",
+            "IFPI L047",
+            "IFPI 2532",
+            "IFPI 2527",
+            "EMI UDEN 5361122 @ 2  2-1-7-NL",
+            "EMI UDEN 5361132 @ 5  4-4-4-NL",
+            "IFPI L047",
+            "IFPI L046",
+            "ifpi 15E3",
+            "ifpi 159C"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/10680889-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/hAS4289eJImJhA2ZXnTEwWwsIP1oAMD5p_wjP_MhcAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgw/ODg5LTE1MDIyODgy/MDItODY0Mi5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/-e-gAF0fTCo9nRIes-8nkt3o5wCCAl97C_WFAC8WiZY/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgw/ODg5LTE1MDIyODgy/MDItODY0Mi5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/10680889",
+        "community": {
+            "want": 48,
+            "have": 296
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "Slipcase",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Brazil",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "EMI",
+            "EMI",
+            "EMI Records Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "das Boot recording",
+            "Sony Music Manaus Ind. e Com. Ltda.",
+            "Westminster Music Ltd.",
+            "Roger Waters Music Overseas Ltd.",
+            "Pink Floyd Music Publishers Ltd.",
+            "Peermusic"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock",
+            "Art Rock"
+        ],
+        "id": 10828450,
+        "barcode": [
+            "7 24353 61112 5",
+            "1-2-5361112 02",
+            "2-2-5361112 02",
+            "IFPI L391",
+            "IFPI 6607",
+            "IFPI 6612",
+            "5361122",
+            "5361132",
+            "SMB",
+            "LC 0542",
+            "bel BIEM"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/10828450-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "652 536111 2",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/V-F0LjrCo6WfhTjKeEJsYQ117i4MBvspojS0pjSjXd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI4/NDUwLTE1MDUwNzUz/NjktNTM5My5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/1GIQSosTRpMJtrAUC2WS-ty51Nje0H1q-uDiWZvciiE/rs:fit/g:sm/q:90/h:508/w:508/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI4/NDUwLTE1MDUwNzUz/NjktNTM5My5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/10828450",
+        "community": {
+            "want": 41,
+            "have": 276
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Germany",
+        "year": "2018",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Reissue",
+            "Remastered"
+        ],
+        "label": [
+            "Pink Floyd Records",
+            "Pink Floyd Records",
+            "Warner Music Group",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Parlophone Records Ltd.",
+            "Parlophone Records Ltd.",
+            "das boot recording",
+            "Bernie Grundman Mastering",
+            "Roger Waters Music Overseas Ltd.",
+            "Westminster Music Ltd.",
+            "TRO-Hampshire House Publishing Corp.",
+            "Pink Floyd Music Publishers Ltd."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 12862097,
+        "barcode": [
+            "0190295624019",
+            "3130338-01 A2 BG  0190295624019A",
+            "3130338-01 B2 BG  0190295624019B",
+            "3130338-02 C1 BG  0190295624019C",
+            "3130338-02 D1 BG  0190295624019D",
+            "B130338-01 A2 BG  ᘳ 0190295624019A",
+            "B130338-01 B2 BG ᘳ 0190295624019B",
+            "B130338-02 C1 BG 0190295624019C",
+            "B130338-02 D1 BG 0190295624019D",
+            "BMI"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/release/12862097-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "PFRLP21",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/DBGoIkFW3Q9U-dVPsiILhcle58xIx3NQBD5ThkN3z7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYy/MDk3LTE1NDMzNzUx/NjktNzQ4NS5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/MbhRG_u4kf7JeWE6cHGKT8Tc-S1ghmvdHZuLNwAfGpg/rs:fit/g:sm/q:90/h:485/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYy/MDk3LTE1NDMzNzUx/NjktNzQ4NS5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/12862097",
+        "community": {
+            "want": 71,
+            "have": 550
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "text": "180g Heavyweight Vinyl",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Reissue",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Europe",
+        "year": "2016",
+        "format": [
+            "CD",
+            "Compilation",
+            "Reissue",
+            "Remastered"
+        ],
+        "label": [
+            "Pink Floyd Records",
+            "Pink Floyd Records",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "www.takt.eu"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 9587188,
+        "barcode": [
+            "5 099902 896625",
+            "5099902896625",
+            "www.takt.eu 2100003171542 0289662",
+            "IFPI LK97",
+            "IFPI 9R88",
+            "www.takt.eu 2100003171542 0289662",
+            "IFPI LK97",
+            "IFPI 9R89"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/release/9587188-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "PFR21",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/TfvDbTkJwsXvwxJybZYOwCQyOPFNKZX9NTc_DjIQqfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODcx/ODgtMTY0ODE2MDQ4/MC0yOTI2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/uKNT9uj-qnUr4n8XmY_Y26MT_lefjdeB2TVrny0YVSY/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODcx/ODgtMTY0ODE2MDQ4/MC0yOTI2LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/9587188",
+        "community": {
+            "want": 27,
+            "have": 562
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                    "Compilation",
+                    "Reissue",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 701217,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/701217-Pink-Floyd-Trance-Remixes",
+        "title": "Pink Floyd Trance Remixes",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/701217"
+    },
+    {
+        "country": "Venezuela",
+        "year": "1967",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Album",
+            "Mono"
+        ],
+        "label": [
+            "Odeon",
+            "Musitron S.A.",
+            "Musitron S.A."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Acid Rock",
+            "Art Rock",
+            "Experimental",
+            "Avantgarde"
+        ],
+        "id": 3444298,
+        "barcode": [
+            "MT 1119 1V",
+            "MT 1119 2V"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 19546,
+        "master_url": "https://api.discogs.com/masters/19546",
+        "uri": "/release/3444298-Pink-Floyd-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn",
+        "catno": "MT-1119",
+        "title": "Pink Floyd - Pink Floyd (The Piper At The Gates Of Dawn)",
+        "thumb": "https://i.discogs.com/2lr4jZWY2KMWMlcQ3sJNxkGY2xo_5F6K_tC9lfNd90c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQy/OTgtMTMzMDYyNTcx/OC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/TwEC4sEyacijSFwS8TrkDQ2ZHveBJDYYtoS7qWezeQk/rs:fit/g:sm/q:90/h:397/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQy/OTgtMTMzMDYyNTcx/OC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3444298",
+        "community": {
+            "want": 810,
+            "have": 88
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Mono"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "2016",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+        ],
+        "label": [
+            "Pink Floyd Records",
+            "Pink Floyd Records",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Sony Music Entertainment",
+            "Sony Music Entertainment",
+            "das boot recording",
+            "Westminster Music Ltd.",
+            "TRO-Hampshire House Publishing Corp.",
+            "Roger Waters Music Overseas Ltd.",
+            "Muziekuitgeverij Artemis B.V.",
+            "Warner/Chappell Music Publishing Ltd.",
+            "Warner-Tamerlane Publishing Corp.",
+            "Pink Floyd Music Publishers Ltd.",
+            "Imagem UK Ltd.",
+            "Sony DADC",
+            "Sony DADC"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock",
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 8709942,
+        "barcode": [
+            "8 88751 71032 0",
+            "888751710320",
+            "IFPI L328",
+            "DIDX-481631 10",
+            "IFPI 50BC",
+            "DIDX-481631 10 A02",
+            "IFPI 50BR",
+            "DIDX-481632 10",
+            "IFPI 50BT",
+            "DIDX-481632 10 A04",
+            "IFPI 50BR",
+            "BUM/STE",
+            "88875171032D1",
+            "88875171032D2"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/8709942-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "PFR20",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/6IVNOvzO18bAwzD4iqgeI3O5GA3E_c-ctbRACLKvKgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDk5/NDItMTU5NTQzODU3/OC0yMDQyLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/5uV8hVtSQp0QDxNA1E610u6zYPutFkSmunXv1YAOC2o/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDk5/NDItMTU5NTQzODU3/OC0yMDQyLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8709942",
+        "community": {
+            "want": 78,
+            "have": 181
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Reissue",
+                    "Remastered",
+                    "Stereo"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Canada",
+        "year": "1987",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Promo",
+            "Vinyl",
+            "LP",
+            "Album",
+            "All Media"
+        ],
+        "label": [
+            "Columbia",
+            "CBS Records Canada Ltd.",
+            "CBS Inc.",
+            "CBS Inc.",
+            "Columbia Records Pressing Plant, Don Mills, ON",
+            "Columbia Records Pressing Plant, Don Mills, ON",
+            "Columbia Records Pressing Plant, Don Mills, ON"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock",
+            "Non-Music"
+        ],
+        "style": [
+            "Interview",
+            "Prog Rock"
+        ],
+        "id": 4238056,
+        "barcode": [
+            "DM #",
+            "CDN-391-A 1B2HZDK: DM-1",
+            "CDN-391-B-1A2HZDK: DM-1",
+            "CDN-392-A 1A 2Z DM 2",
+            "CDN-392-B 1A 2Z DM 3"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 10303,
+        "master_url": "https://api.discogs.com/masters/10303",
+        "uri": "/release/4238056-Pink-Floyd-A-Momentary-Lapse-Of-Reason-An-Insight-Into-Pink-Floyd",
+        "catno": "2CDN-390",
+        "title": "Pink Floyd - A Momentary Lapse Of Reason - An Insight Into Pink Floyd",
+        "thumb": "https://i.discogs.com/MzzMTKslno1g4dxRQZovgZRF41YRIAjnZk8tVNBdNdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzgw/NTYtMTM1OTM4MDI1/MC01MTEyLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/XXzEBWy1wKE8GROI-4eJ1GEuqs9oa7uPmlRWk1fqlAc/rs:fit/g:sm/q:90/h:250/w:237/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzgw/NTYtMTM1OTM4MDI1/MC01MTEyLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/4238056",
+        "community": {
+            "want": 409,
+            "have": 297
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Promo"
+                ]
+            },
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Album"
+                ]
+            },
+            {
+                "name": "All Media",
+                "qty": "1"
+            }
+        ]
+    },
+    {
+        "country": "Mexico",
+        "year": "2006",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Reissue"
+        ],
+        "label": [
+            "EMI",
+            "EMI Music Mexico, S.A. De C.V.",
+            "EMI Music Mexico, S.A. De C.V.",
+            "Sony Music México",
+            "Sony Music México",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Sony Music Entertainment",
+            "EMI Records Ltd."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 3454162,
+        "barcode": [
+            "7 24353 61112 5",
+            "724353611125",
+            "DIDX 118085 01",
+            "IFPI LE81",
+            "IFPI 6404",
+            "DIDX 118087 02",
+            "IFPI LE81",
+            "IFPI 6416"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/3454162-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/5cYFhcok39E7XXvKvxUh5BiYGyRmJnUc6RRHnyDeXWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQx/NjItMTYyODE4NzY2/MC0yNjAzLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/MGyZf0jXUOh4zANSDSR2Bc7voBdDPke0suhWZ9eeZs8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTQx/NjItMTYyODE4NzY2/MC0yNjAzLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3454162",
+        "community": {
+            "want": 54,
+            "have": 227
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "Slipcase",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Reissue"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "2011",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "EMI",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Capitol Records, LLC",
+            "Das Boot Recording",
+            "Sony DADC"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 3650757,
+        "barcode": [
+            "5 099902 896625",
+            "DIDX-748953 20 C04",
+            "IFPI L328",
+            "IFPI AKNOB",
+            "50999 028966 2 5"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/release/3650757-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "50999 028966 2 5",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/SVLi6_JMI3EyYHWT1VIfPQPxkkWD34vCuNzwXag3D48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA3/NTctMTUxODM4NDQy/MC03NjQwLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/p_8B4uLbli9e2fsqegPtAJtt6ZuKHygOfSbT68p9YvE/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA3/NTctMTUxODM4NDQy/MC03NjQwLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3650757",
+        "community": {
+            "want": 36,
+            "have": 510
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "1",
+                "text": "Cardsleeve",
+                "descriptions": [
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "UK",
+        "year": "2003",
+        "format": [
+            "DVD",
+            "DVD-Video",
+            "PAL"
+        ],
+        "label": [
+            "Direct Video Distribution",
+            "Video/Film Express",
+            "DVD UK Ltd",
+            "Otmoor Productions Limited/BBC",
+            "Direct Video Distribution UK Ltd",
+            "Direct Video Distribution UK Ltd"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock",
+            "Non-Music"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Interview"
+        ],
+        "id": 870423,
+        "barcode": [
+            "5 060009 233156",
+            "43870 + Vid"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 268879,
+        "master_url": "https://api.discogs.com/masters/268879",
+        "uri": "/release/870423-Pink-Floyd-Syd-Barrett-Various-The-Pink-Floyd-Syd-Barrett-Story",
+        "catno": "DVDUK009D",
+        "title": "Pink Floyd & Syd Barrett / Various - The Pink Floyd & Syd Barrett Story",
+        "thumb": "https://i.discogs.com/Z8qa0eKkF-dLF0-ZtvQ5pfcFrFt5DNel0b1Fe8j6g5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDQy/My0xMzU2MDIyNDU2/LTQ4NTIuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/m6lxy45xegUx8LiuatREcyYKRU-yg0BhNi7ZG1p1NK8/rs:fit/g:sm/q:90/h:860/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDQy/My0xMzU2MDIyNDU2/LTQ4NTIuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/releases/870423",
+        "community": {
+            "want": 25,
+            "have": 411
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "DVD",
+                "qty": "1",
+                "text": "Dolby Digital 5.1, Digital Surround",
+                "descriptions": [
+                    "DVD-Video",
+                    "PAL"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5380111,
+        "type": "artist",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/artist/5380111-Pink-Floyd-Archives",
+        "title": "Pink Floyd Archives",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/artists/5380111"
+    },
+    {
+        "country": "Mexico",
+        "year": "2013",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "Music Brokers",
+            "The Many Faces Of",
+            "Music Brokers",
+            "Sony Music México",
+            "Sony Music México",
+            "Sony Music México"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock",
+            "Non-Music"
+        ],
+        "style": [
+            "Prog Rock",
+            "Pop Rock",
+            "Psychedelic Rock",
+            "Classic Rock",
+            "Interview"
+        ],
+        "id": 1001074,
+        "barcode": [
+            "7798141337385",
+            "DIDX 937489 01 Mastered by Sony Music Mexico",
+            "DIDX 937503 01 Mastered by Sony Music Mexico",
+            "DIDX 937531 01 Mastered by Sony Music Mexico",
+            "IFPI LE81",
+            "IFPI 6411",
+            "IFPI 6419",
+            "IFPI 6417",
+            "IFPI 6409",
+            "IFPI 6414",
+            "IFPI 6417",
+            "SMM",
+            "IFPI 6410",
+            "IFPI 6414",
+            "IFPI 6412",
+            "SMM"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 1001074,
+        "master_url": "https://api.discogs.com/masters/1001074",
+        "uri": "/master/1001074-Various-The-Many-Faces-Of-Pink-Floyd",
+        "catno": "MBB7137",
+        "title": "Various - The Many Faces Of Pink Floyd",
+        "thumb": "https://i.discogs.com/fwOBcOpN1aTODlvoBTGgOiNhinQc-mdTw0BOdVvg3y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEy/NjctMTM3OTM0OTc1/Ni05OTkxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/KAhNZmu2ixHeYrAvn5zXqjiL2hOxMawDmQ18ZsZ957s/rs:fit/g:sm/q:90/h:442/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEy/NjctMTM3OTM0OTc1/Ni05OTkxLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/1001074",
+        "community": {
+            "want": 94,
+            "have": 1089
+        }
+    },
+    {
+        "country": "Germany",
+        "year": "2007",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Unofficial Release"
+        ],
+        "label": [
+            "Shadow Man Records",
+            "Actuel Festival, Belgium"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Classic Rock"
+        ],
+        "id": 2480372,
+        "barcode": [
+            "4 002604 009195",
+            "PF - 102432 - A -",
+            "PF - 102432 - B -"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 208260,
+        "master_url": "https://api.discogs.com/masters/208260",
+        "uri": "/release/2480372-Pink-Floyd-Meets-Frank-Zappa-Pink-Floyd-Meets-Frank-Zappa",
+        "catno": "PF 102432",
+        "title": "Pink Floyd Meets Frank Zappa - Pink Floyd Meets Frank Zappa",
+        "thumb": "https://i.discogs.com/JhfWVwPE3bP-h42XH3xkSb5NKXkuVevxqnfmpFtg3Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAz/NzItMTUzNzA4NDMx/MS0xNTc5LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/KENUHQ7_UdfLNduCS2TCtfMZH3V0PL2DfQGOAnzSXCY/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAz/NzItMTUzNzA4NDMx/MS0xNTc5LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/2480372",
+        "community": {
+            "want": 199,
+            "have": 178
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Blue",
+                "descriptions": [
+                    "LP",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1879543,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1879543-Pink-Floyd-Music-Publ-Ltd",
+        "title": "Pink Floyd Music Publ. Ltd",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/1879543"
+    },
+    {
+        "country": "UK & Europe",
+        "year": "1994",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Album"
+        ],
+        "label": [
+            "EMI United Kingdom",
+            "EMI United Kingdom",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "EMI",
+            "EMI",
+            "Astoria",
+            "Britannia Row Studios",
+            "Abbey Road Studios",
+            "Metropolis Studios",
+            "The Creek Recording Studios",
+            "The Mastering Lab"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Arena Rock",
+            "Prog Rock"
+        ],
+        "id": 20683,
+        "barcode": [
+            "7 24382 89841 2",
+            "724382898412",
+            "LC 0542",
+            "068",
+            "PM 518",
+            "BIEM/MCPS",
+            "7243 8 28984 1 2 A",
+            "7243 8 28984 1 2 B",
+            "8289841 A-1-2-1 FLOYD-A TML-M",
+            "8289841 B-2-1-1 FLOYD-B TML-X",
+            "8289841 A-2-2-1 FLOYD-A TML-X",
+            "8289841 B-1-1-1 TML-M FLOYD-B",
+            "8289841 A-2-1-2 FLOYD-A TML-X",
+            "8289841 B-2-1-1 FLOYD-B TML-X",
+            "8289841 A-1-1-2 FLOYD-A TML-M",
+            "8289841 B-2-1-1 FLOYD-B TML-X",
+            "8289841 A-2-2-1 FLOYD-A TML-X",
+            "8289841 B-2-1-1 FLOYD-B TML-X"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20683,
+        "master_url": "https://api.discogs.com/masters/20683",
+        "uri": "/master/20683-Pink-Floyd-The-Division-Bell",
+        "catno": "7243 8 28984 1 2",
+        "title": "Pink Floyd - The Division Bell",
+        "thumb": "https://i.discogs.com/mPl-lD3TEqofoqPSl4qTOLqPbnt4VPpSLC1C8YB24pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAx/MDMtMTQ1NDcyMjgw/Mi00Njc3LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/JvXpAAERE19zXnCA7O4LqeLSFhpRaezgkNspxAB_nik/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAx/MDMtMTQ1NDcyMjgw/Mi00Njc3LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/20683",
+        "community": {
+            "want": 53838,
+            "have": 77607
+        }
+    },
+    {
+        "country": "Netherlands",
+        "year": "1970",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation"
+        ],
+        "label": [
+            "Columbia",
+            "Columbia",
+            "The Best Of",
+            "EMI",
+            "N.V. Bovema",
+            "Bovema / EMI Studios",
+            "Bovema / EMI Studios",
+            "Habo"
+        ],
+        "type": "release",
+        "genre": [
+            "Electronic",
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 13571845,
+        "barcode": [
+            "BIEM",
+            "5C 054-04299-A",
+            "5C 054-04299-B",
+            "04299A//13.153-1",
+            "04299B//13.154-1"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 44236,
+        "master_url": "https://api.discogs.com/masters/44236",
+        "uri": "/release/13571845-The-Pink-Floyd-The-Best-Of-The-Pink-Floyd",
+        "catno": "5C 054-04299",
+        "title": "The Pink Floyd* - The Best Of The Pink Floyd",
+        "thumb": "https://i.discogs.com/EhZtiO6avYmBepUK4djdvqcHfE_Iby1zLoMVXiQ9VDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQ1LTE2ODAwMTY3/NDktOTU0NC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/60yfoxuiVHW65nzLCdH5efQSMYCBVU-nSWsui0myrXI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQ1LTE2ODAwMTY3/NDktOTU0NC5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/13571845",
+        "community": {
+            "want": 98,
+            "have": 278
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Black label",
+                "descriptions": [
+                    "LP",
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "1995",
+        "format": [
+            "CD",
+            "Album"
+        ],
+        "label": [
+            "Point Music",
+            "Point Music",
+            "Point Music",
+            "TRO-Hampshire House Publishing Corp.",
+            "Pink Floyd Music Publishers Inc.",
+            "PolyGram Classics & Jazz",
+            "PolyGram Classics & Jazz",
+            "Air Lyndhurst Hall",
+            "Olympic Studios",
+            "The Town House",
+            "Hook End Manor",
+            "Hook End Manor",
+            "Chop 'Em Out",
+            "Big Life Studios",
+            "Gateway Mastering",
+            "PMDC, USA"
+        ],
+        "type": "release",
+        "genre": [
+            "Classical"
+        ],
+        "style": [
+            "Modern Classical",
+            "Classic Rock"
+        ],
+        "id": 3828611,
+        "barcode": [
+            "0028944662320",
+            "0 28944 66232 0",
+            "446 623-2 04@ AS",
+            "IFPI L006",
+            "IFPI 0314",
+            "MADE IN USA BY PMDC",
+            "LC 6024"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 282698,
+        "master_url": "https://api.discogs.com/masters/282698",
+        "uri": "/release/3828611-The-London-Philharmonic-Orchestra-Us-And-Them-Symphonic-Pink-Floyd",
+        "catno": "446 623-2",
+        "title": "The London Philharmonic Orchestra - Us And Them (Symphonic Pink Floyd)",
+        "thumb": "https://i.discogs.com/kQ_tdmaWlGNaHfpfhOEFBhH2ijvUNbxHEmoG9EgL_QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg2/MTEtMTM1MTI2MTQx/OS0xOTI1LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/R5BMMagf24F3-38TgQ64UL4yX4iaYkvBCFTXAVS2zFE/rs:fit/g:sm/q:90/h:440/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg2/MTEtMTM1MTI2MTQx/OS0xOTI1LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3828611",
+        "community": {
+            "want": 22,
+            "have": 721
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "1",
+                "text": "Digipak",
+                "descriptions": [
+                    "Album"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Europe",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed"
+        ],
+        "label": [
+            "EMI"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 7852089,
+        "barcode": [
+            "0 94635 25862 2",
+            "LC 0542",
+            "ims manufacturing (logo) www.imsgroup.it 5361122",
+            "LV03",
+            "IFPI 2527",
+            "ims manufacturing (logo) www.imsgroup.it 5361132",
+            "LV03",
+            "IFPI 2536"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/7852089-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "2CD 0946 3 52586 2 2",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/OSkgF0ARNZbhEvXmgAM65O776tXW1qRAaPc8oAdAVJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTIw/ODktMTQ2Nzc2MzU0/Ny03ODE4LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/rFbNE9rD00G9xg4hW5CC1exZ0VjSzUceUMd9WsZ5rJA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTIw/ODktMTQ2Nzc2MzU0/Ny03ODE4LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/7852089",
+        "community": {
+            "want": 57,
+            "have": 194
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "Slipcase",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "2006",
+        "format": [
+            "CD",
+            "Compilation",
+            "Remastered"
+        ],
+        "label": [
+            "Capitol Records",
+            "EMI",
+            "Capitol Records",
+            "Pink Floyd (1987) Ltd.",
+            "EMI Records Ltd.",
+            "Sony Music Entertainment",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "Capitol Records, Inc.",
+            "Cinram, Richmond, IN",
+            "EMI MFG.",
+            "Cinram, Richmond, IN"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 8083516,
+        "barcode": [
+            "094637454329",
+            "CDP 7243 5 36112 2 4",
+            "L385",
+            "IFPI 6100",
+            "L385 7301 724353611224 C60910-02 A",
+            "CDP 7243 5 36113 2 3",
+            "IFPI L044",
+            "unk",
+            "724 353611323RE1 MASTERED BY EMI MFG. M1S3"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/8083516-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd-",
+        "catno": "09463-74543-2-9",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd) ",
+        "thumb": "https://i.discogs.com/sOZYb2huoxOG7g_wevXG0X5CpbutUU7mn3u7xHO977c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODM1/MTYtMTQ1NDg3MDI5/MC02NjcxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/bjGZyVis2YAgn5ByLimqffSOtCX72_O5eJDKC01G3aE/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODM1/MTYtMTQ1NDg3MDI5/MC02NjcxLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8083516",
+        "community": {
+            "want": 58,
+            "have": 145
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "Slipcase",
+                "descriptions": [
+                    "Compilation",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "UK",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Promo",
+            "Sampler"
+        ],
+        "label": [
+            "EMI",
+            "Pink Floyd Music Ltd.",
+            "Sony Music Entertainment",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "EMI UK"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 1244130,
+        "barcode": [
+            "CDLRL 054 2:1:7 EMI UK",
+            "IFPI L 041",
+            "IFPI 1482"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 1244130,
+        "master_url": "https://api.discogs.com/masters/1244130",
+        "uri": "/Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd-6-Track-Sampler/master/1244130",
+        "catno": "CDLRL 054",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd) (6 Track Sampler)",
+        "thumb": "https://i.discogs.com/VjKu-A5NXGPgfQ83V5VNfotu4yWYuaj0U-goIrwdg-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDAw/MTYtMTI5Mjk2OTA2/Ny5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/nKzH6EylYY_z4FcbxAf5R6FtfRvazSsgAAcZhyxc9mI/rs:fit/g:sm/q:90/h:602/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDAw/MTYtMTI5Mjk2OTA2/Ny5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/masters/1244130",
+        "community": {
+            "want": 105,
+            "have": 361
+        }
+    },
+    {
+        "country": "US",
+        "year": "2005",
+        "format": [
+            "CD",
+            "Album"
+        ],
+        "label": [
+            "Purple Pyramid",
+            "Purple Pyramid Records",
+            "Purple Pyramid Records",
+            "Warner-Tamerlane Publishing Corp.",
+            "Pink Floyd Music Ltd.",
+            "4TUNE Studios, Van Nuys, California",
+            "4TUNE Studios, Van Nuys, California",
+            "Future Disc",
+            "MCOM"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Prog Rock"
+        ],
+        "id": 610772,
+        "barcode": [
+            "7 41157 15352 1",
+            "741157153521",
+            "[none]",
+            "ZN1E",
+            "60513AM-02 1535-2-DISC 1 052007-04",
+            "[none]",
+            "ZN1K",
+            "60514AM-02 1535-2-DISC 2 051807-21"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 610772,
+        "master_url": "https://api.discogs.com/masters/610772",
+        "uri": "/master/610772-Various-Back-Against-The-Wall-A-Tribute-To-Pink-Floyd",
+        "catno": "CLP-1535-2",
+        "title": "Various - Back Against The Wall (A Tribute To Pink Floyd)",
+        "thumb": "https://i.discogs.com/YHxybprvC66pGYIPtFeU_YbKLtpjMSuPm3fQFAzoUlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODUy/MjUtMTM4MzE2Njk1/My04Mzg2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/Is-4F9su5NRGvO91HQf5lmD9WPftbEoxQfj7bJ-WiVo/rs:fit/g:sm/q:90/h:593/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODUy/MjUtMTM4MzE2Njk1/My04Mzg2LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/610772",
+        "community": {
+            "want": 305,
+            "have": 1379
+        }
+    },
+    {
+        "country": "UK",
+        "genre": [
+            "Rock"
+        ],
+        "format": [
+            "Vinyl",
+            "7\"",
+            "45 RPM",
+            "Picture Disc",
+            "Unofficial Release"
+        ],
+        "style": [
+            "Classic Rock"
+        ],
+        "id": 3059105,
+        "label": [
+            "Baktabak",
+            "Interview Picture Disc Collection"
+        ],
+        "type": "release",
+        "barcode": [
+            "BAK PAK 1022/4 A R",
+            "BAK PAK 1022/4 B R"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 432862,
+        "master_url": "https://api.discogs.com/masters/432862",
+        "uri": "/Pink-Floyd-A-Rare-Interview-With-Pink-Floyd/release/3059105",
+        "catno": "BAKPAK 1022",
+        "title": "Pink Floyd - A Rare Interview With Pink Floyd",
+        "thumb": "https://i.discogs.com/bzz730aRYEnkF0WHceiL2rhAcm2RecFobQLZtjstUlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTkx/MDUtMTU0NTI4MDc0/OC0zOTExLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/OwoNitF8n3kWTZNbIw8Tnkq_Qvt2UDcDDpBLauq6KUA/rs:fit/g:sm/q:90/h:733/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTkx/MDUtMTU0NTI4MDc0/OC0zOTExLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3059105",
+        "community": {
+            "want": 52,
+            "have": 74
+        },
+        "format_quantity": 4,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "4",
+                "descriptions": [
+                    "7\"",
+                    "45 RPM",
+                    "Picture Disc",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Italy",
+        "year": "1988",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Unofficial Release",
+            "Mono"
+        ],
+        "label": [
+            "Bulldog Records",
+            "It Was More Than 20 Years Ago",
+            "Fonit Cetra S.p.A.",
+            "Bulldog Records Srl",
+            "Graphyche Magica 2000"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 377617,
+        "barcode": [
+            "BG LP 014 - A",
+            "BG LP 014 - B",
+            "SIAE"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 377617,
+        "master_url": "https://api.discogs.com/masters/377617",
+        "uri": "/master/377617-Pink-Floyd-The-Live-Pink-Floyd-Oude-Ahoy-Hallen-Rotterdam-October-12-1967",
+        "catno": "BG LP 014",
+        "title": "Pink Floyd - The Live Pink Floyd - Oude-Ahoy Hallen, Rotterdam, October 12, 1967",
+        "thumb": "https://i.discogs.com/1_6fZnLOj64IkypElBPV-6krHq87VW6i6KxRwX9SpXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ0/MDA0LTE1MTQ2MjQw/MTItNTc4NS5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/YqusZzfP81pkTmqGmWbpsrWnajfYbEIarWIfFCFGtB0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ0/MDA0LTE1MTQ2MjQw/MTItNTc4NS5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/masters/377617",
+        "community": {
+            "want": 259,
+            "have": 344
+        }
+    },
+    {
+        "country": "Europe",
+        "year": "2018",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Unofficial Release"
+        ],
+        "label": [
+            "KTU"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 13486612,
+        "barcode": [
+            "KTU33-1 A",
+            "KTU33-1 B",
+            "KTU33-1 C",
+            "KTU33-1 D"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 0,
+        "master_url": null,
+        "uri": "/Pink-Floyd-Spring-Equinox-The-Unreleased-Pink-Floyd-London-Collection/release/13486612",
+        "catno": "KTU 33-1",
+        "title": "Pink Floyd - Spring Equinox (The Unreleased Pink Floyd London Collection)",
+        "thumb": "https://i.discogs.com/7mjz9AGvKMrnJJ2KA5Q3pr-vWfsK-PQUAeRZJo27skM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/NjEyLTE2MjEwMjM0/OTktODcwOS5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/TxFMQZB1RSenA3VvoB9PzwxXonLsHn1uWPr61j_85mo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/NjEyLTE2MjEwMjM0/OTktODcwOS5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/13486612",
+        "community": {
+            "want": 74,
+            "have": 271
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "year": "2009",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Unofficial Release"
+        ],
+        "label": [
+            "Not On Label (Pink Floyd)"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Prog Rock"
+        ],
+        "id": 2034009,
+        "barcode": [
+            "042282392923"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 597340,
+        "master_url": "https://api.discogs.com/masters/597340",
+        "uri": "/Pink-Floyd-Knebworth-Featuring-Pink-Floyd-Complete-Show/release/2034009",
+        "catno": "843 924-1",
+        "title": "Pink Floyd - Knebworth Featuring Pink Floyd Complete Show",
+        "thumb": "https://i.discogs.com/Fk8C_02QxsC90NH0JIqXO12KKuwwfnK8UR9DcOEoxmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQw/MDktMTM4MTMwNjM3/My02NTU2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/q-VW9p3ur8EPXWXSBVJ983lSaC2XMkCkrT1KeYprcus/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQw/MDktMTM4MTMwNjM3/My02NTU2LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/2034009",
+        "community": {
+            "want": 65,
+            "have": 133
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "descriptions": [
+                    "LP",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "year": "1970",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation"
+        ],
+        "label": [
+            "Columbia",
+            "Columbia",
+            "The Best Of",
+            "N.V. Bovema",
+            "Bovema / EMI Studios",
+            "Bovema / EMI Studios",
+            "EMI",
+            "Habo"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 8861533,
+        "barcode": [
+            "5C 054-04299-A",
+            "5C 054-04299-B",
+            "04299A//13.153-1",
+            "04299B//13.154-1",
+            "BIEM"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 44236,
+        "master_url": "https://api.discogs.com/masters/44236",
+        "uri": "/release/8861533-The-Pink-Floyd-The-Best-Of-The-Pink-Floyd",
+        "catno": "5C 054-04299",
+        "title": "The Pink Floyd* - The Best Of The Pink Floyd",
+        "thumb": "https://i.discogs.com/t_KCK9yaO55uRHUQanhb3w7h7hdKvnA5SesTiJ39RvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjE1/MzMtMTQ3MDMwNzg1/Ni01NjMxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/CBn8cKIibcxBbV-bkwwWSvZm6BYt_qiyMFi2oH_pfMI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjE1/MzMtMTQ3MDMwNzg1/Ni01NjMxLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8861533",
+        "community": {
+            "want": 127,
+            "have": 138
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Red label Export Issue",
+                "descriptions": [
+                    "LP",
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1107999,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1107999-Pink-Floyd-Records-2",
+        "title": "Pink Floyd Records (2)",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/1107999"
+    },
+    {
+        "country": "UK",
+        "genre": [
+            "Rock"
+        ],
+        "format": [
+            "CD",
+            "Album",
+            "Stereo"
+        ],
+        "style": [
+        ],
+        "id": 1155247,
+        "label": [
+            "Going For A Song"
+        ],
+        "type": "master",
+        "barcode": [
+            "5 033107 132522",
+            "5033107132522",
+            "GFS325-D1 SI8022609/D MADE IN EU",
+            "IFPI  LC01",
+            "IFIP 9K05",
+            "mcps"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 1155247,
+        "master_url": "https://api.discogs.com/masters/1155247",
+        "uri": "/master/1155247-The-Rock-Anthem-Orchestra-Pink-Floyd",
+        "catno": "GFS325",
+        "title": "The Rock Anthem Orchestra - Pink Floyd",
+        "thumb": "https://i.discogs.com/sdLVsoHPRvlW_xP-C_M_Mva_DpKR1gTpeFXNj1SRt64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDc3/NzUtMTY1MzMwNDQ4/My04ODgxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/CzMyD96t_Yq9gunPFIKniSw8Mnl_wvUBEH3jJ2xLqdA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDc3/NzUtMTY1MzMwNDQ4/My04ODgxLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/1155247",
+        "community": {
+            "want": 4,
+            "have": 174
+        }
+    },
+    {
+        "country": "Europe",
+        "year": "2005",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "United Audio Entertainment",
+            "Mediamotion"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Symphonic Rock",
+            "Prog Rock"
+        ],
+        "id": 3818949,
+        "barcode": [
+            "778325961725",
+            "MCPS",
+            "IFPI LW03",
+            "ifpi AAHF6",
+            "PPD/UAX96172 @ 3"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 650884,
+        "master_url": "https://api.discogs.com/masters/650884",
+        "uri": "/release/3818949-Various-Pink-Floyd",
+        "catno": "UAX 96172",
+        "title": "Various - Pink Floyd",
+        "thumb": "https://i.discogs.com/HPRdQXYGsP7z1lQpN0pAuDyxP5QWFsXCTMZMaSQbUHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg5/NDktMTM0NTY0Nzg4/MS01OTM4LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/80rz9-jl3QGccCtsy5SrAUVZ_gTH3sGALoKfWGGpAec/rs:fit/g:sm/q:90/h:357/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg5/NDktMTM0NTY0Nzg4/MS01OTM4LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3818949",
+        "community": {
+            "want": 13,
+            "have": 207
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Sampler",
+            "Compilation",
+            "Promo"
+        ],
+        "label": [
+            "Capitol Records",
+            "Pink Floyd Music Ltd.",
+            "EMI Records Ltd.",
+            "Sony Music Entertainment",
+            "EMI Records Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Capitol Records, Inc.",
+            "EMI MFG."
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Classic Rock",
+            "Prog Rock"
+        ],
+        "id": 610751,
+        "barcode": [
+            "70 8761599121AV",
+            "IFPI L043",
+            "IFPI 167F"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 1244130,
+        "master_url": "https://api.discogs.com/masters/1244130",
+        "uri": "/Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd-8-Track-Sampler/release/610751",
+        "catno": "DPRO 7087 6 15991 2 1",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd) (8 Track Sampler)",
+        "thumb": "https://i.discogs.com/i_jZNQ_za6xIjKjNn2PnDJ3yONkKBhnt7hvHuzgXvCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDc1/MS0xMjg4MDc1Mjgz/LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/ENt_uIzJBp8hY3Sfru38XDIX5iaenq0J1VUChvFz9Dg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDc1/MS0xMjg4MDc1Mjgz/LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/610751",
+        "community": {
+            "want": 51,
+            "have": 188
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "1",
+                "descriptions": [
+                    "Sampler",
+                    "Compilation",
+                    "Promo"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Germany",
+        "year": "1994",
+        "format": [
+            "CD",
+            "Album"
+        ],
+        "label": [
+            "Edelton",
+            "Pilot Studios",
+            "Pilot Studios",
+            "Pilot Studios",
+            "\"edel\" Gesellschaft Für Produktmarketing Mbh",
+            "\"edel\" Gesellschaft Für Produktmarketing Mbh"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Modern Classical",
+            "Post-Modern",
+            "Prog Rock"
+        ],
+        "id": 91134,
+        "barcode": [
+            "782124283827",
+            "LC7719"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 91134,
+        "master_url": "https://api.discogs.com/masters/91134",
+        "uri": "/master/91134-The-Royal-Philharmonic-Orchestra-Plays-Hits-Of-Pink-Floyd",
+        "catno": "EDL 28382",
+        "title": "The Royal Philharmonic Orchestra - Plays Hits Of Pink Floyd",
+        "thumb": "https://i.discogs.com/bb0YG0hmePxAsMZI-GqlcgGvo-8FSdqxr86x5iEor8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMy/MzItMTIxMTI5Mzg2/Mi5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/blnbv6ecxJ3WetzPmXqzLAGUYP0ZQNSY0-GCjCyCOrY/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMy/MzItMTIxMTI5Mzg2/Mi5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/masters/91134",
+        "community": {
+            "want": 108,
+            "have": 639
+        }
+    },
+    {
+        "id": 305790,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/305790-Pink-Floyd-Archives",
+        "title": "Pink Floyd Archives",
+        "thumb": "",
+        "cover_image": "https://st.discogs.com/472654a12fa9be00374a8e125dc0c814703df94a/images/spacer.gif",
+        "resource_url": "https://api.discogs.com/labels/305790"
+    },
+    {
+        "id": 1193857,
+        "type": "label",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/label/1193857-Pink-Floyd-MasterSeries",
+        "title": "Pink Floyd MasterSeries",
+        "thumb": "https://i.discogs.com/daf0QOLj80J6LKA2pOfN3QOivlYmn9IeXJ7L8TLqk5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExOTM4/NTctMTQ5MDM3NDYz/Ny0zOTUyLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/R6vFU53Fl7vpNx9Udl3weO690fNJaY-Li_6323eBpKY/rs:fit/g:sm/q:90/h:50/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExOTM4/NTctMTQ5MDM3NDYz/Ny0zOTUyLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/labels/1193857"
+    },
+    {
+        "country": "US",
+        "year": "2016",
+        "format": [
+            "CD",
+            "Compilation",
+            "Reissue",
+            "Remastered"
+        ],
+        "label": [
+            "Pink Floyd Records",
+            "Pink Floyd Records",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Pink Floyd Music Ltd.",
+            "Pink Floyd (1987) Ltd.",
+            "Sony DADC"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 8995363,
+        "barcode": [
+            "888751710429",
+            "DIDX-748953 23",
+            "IFPI L328",
+            "IFPI 50BU"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 397339,
+        "master_url": "https://api.discogs.com/masters/397339",
+        "uri": "/release/8995363-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd",
+        "catno": "PFR21",
+        "title": "Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/WMjRUujiHTH_1m9ouK2pf-5PPcKWH0wKpxaDzmX9-sM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTUz/NjMtMTQ4NTczOTI1/MS0zODExLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/rnCZiQpS8xlwsEmryKA3eb5fYCCq_Gv2jnw9HfhTh_0/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTUz/NjMtMTQ4NTczOTI1/MS0zODExLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/8995363",
+        "community": {
+            "want": 29,
+            "have": 210
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "1",
+                "text": "Gatefold Cardboard Sleeve",
+                "descriptions": [
+                    "Compilation",
+                    "Reissue",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "UK",
+        "year": "1995",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "Cherry Red",
+            "Cleopatra",
+            "Cherry Red Records",
+            "Cleopatra",
+            "Pinnacle",
+            "Mayking"
+        ],
+        "type": "master",
+        "genre": [
+            "Electronic"
+        ],
+        "style": [
+            "Techno",
+            "Experimental",
+            "Ambient"
+        ],
+        "id": 57084,
+        "barcode": [
+            "5 013929 112025",
+            "5013929112025",
+            "CDBRED120-1",
+            "CDBRED120-2"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 57084,
+        "master_url": "https://api.discogs.com/masters/57084",
+        "uri": "/master/57084-Various-A-Saucerful-Of-Pink-A-Tribute-To-Pink-Floyd",
+        "catno": "CD BRED 120",
+        "title": "Various - A Saucerful Of Pink - A Tribute To Pink Floyd",
+        "thumb": "https://i.discogs.com/vZNUrzpOIZdXakueWXFBYaMyj1VqP-OcMeYTyug_zWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk4/OS0xNTAyMzk3MTc1/LTE5ODEuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/x2QkQpMEvOwoPG7hBVOvKmLEz54alokyPwGKB5TZ4Pk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk4/OS0xNTAyMzk3MTc1/LTE5ODEuanBlZw.jpeg",
+        "resource_url": "https://api.discogs.com/masters/57084",
+        "community": {
+            "want": 106,
+            "have": 560
+        }
+    },
+    {
+        "country": "South Africa",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed",
+            "Remastered"
+        ],
+        "label": [
+            "EMI"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Art Rock"
+        ],
+        "id": 4907876,
+        "barcode": [
+            "6002140994229",
+            "724353611125",
+            "EMI UDEN 5361122 @ 1",
+            "IFPI L046",
+            "IFPI G304",
+            "EMI UDEN 5361122 @ 5",
+            "IFPI L046",
+            "IFPI G304"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/4907876-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "CDEMCJD (SWFD) 5968",
+        "title": "Pink Floyd - Echoes (The Best Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/KtEiNdPU0A6Zcj-iFTpSt7VnWXUx74i7XYOuyiL4n6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDc4/NzYtMTU2Njk5NDc4/My01OTQyLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/iGQzOK-3efttz7BXvlEqNMVl5neWa9e-IbbMPNZ3_D4/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDc4/NzYtMTU2Njk5NDc4/My01OTQyLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/4907876",
+        "community": {
+            "want": 52,
+            "have": 126
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed",
+                    "Remastered"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Germany",
+        "year": "2010",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Limited Edition",
+            "Numbered",
+            "Unofficial Release"
+        ],
+        "label": [
+            "Not On Label (Pink Floyd)",
+            "Hakone Aphrodite Festival"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Pop Rock",
+            "Psychedelic Rock"
+        ],
+        "id": 4302577,
+        "barcode": [
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 597351,
+        "master_url": "https://api.discogs.com/masters/597351",
+        "uri": "/Pink-Floyd-Pink-Floyd-In-Japan/release/4302577",
+        "catno": "HAK - 1",
+        "title": "Pink Floyd - Pink Floyd In Japan",
+        "thumb": "https://i.discogs.com/2jp2ST64_wukytkq8lzdhnBtSuXCz_DdRFRv9urdDSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDI1/NzctMTM2MTE4MzI0/My01MTE0LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/y0BBb53L-AeJvnfthWAY2Z3Qqz9HkUmOWl9SXlg43KM/rs:fit/g:sm/q:90/h:257/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDI1/NzctMTM2MTE4MzI0/My01MTE0LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/4302577",
+        "community": {
+            "want": 95,
+            "have": 23
+        },
+        "format_quantity": 1,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "1",
+                "text": "Yellow",
+                "descriptions": [
+                    "LP",
+                    "Limited Edition",
+                    "Numbered",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2433872,
+        "type": "artist",
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": null,
+        "master_url": null,
+        "uri": "/artist/2433872-The-Australian-Pink-Floyd-Show",
+        "title": "The Australian Pink Floyd Show",
+        "thumb": "https://i.discogs.com/lcUZsaZOulldv6mqUHw-Fd6_izencCXJBrQ1sOeecoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MzM4/NzItMTQ2MjE0Njc1/NC01MjQ2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/f_2jzjUlbPSNt6ntuFAiN68ZzxzgIdC461ybCi-jFoE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MzM4/NzItMTQ2MjE0Njc1/NC01MjQ2LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/artists/2433872"
+    },
+    {
+        "country": "France",
+        "year": "2019",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Album",
+            "Compilation",
+            "Limited Edition",
+            "Stereo"
+        ],
+        "label": [
+            "Music Brokers",
+            "The Many Faces Of"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 14606053,
+        "barcode": [
+            "7798093712346"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 1847401,
+        "master_url": "https://api.discogs.com/masters/1847401",
+        "uri": "/Various-The-Many-Faces-Of-Pink-Floyd/release/14606053",
+        "catno": "VYN024",
+        "title": "Various - The Many Faces Of Pink Floyd",
+        "thumb": "https://i.discogs.com/BOpbZzNevVfgBB_4poaFskj1zqi7nfcWqt4CQNWrlmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA2/MDUzLTE1NzgwNTg4/OTUtMjQyNy5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/SSJedm_jSn1PUH4P6rquxm0BE9m_ygic-nblWug3PLw/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA2/MDUzLTE1NzgwNTg4/OTUtMjQyNy5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/14606053",
+        "community": {
+            "want": 47,
+            "have": 644
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "text": "Gatefold, Color Vinyl,",
+                "descriptions": [
+                    "LP",
+                    "Album",
+                    "Compilation",
+                    "Limited Edition",
+                    "Stereo"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "1989",
+        "format": [
+            "CD",
+            "Album"
+        ],
+        "label": [
+            "RCA Victor",
+            "BMG Classics",
+            "BMG Music",
+            "BMG Music",
+            "BMG Music",
+            "BMG Music",
+            "RCA Corporation",
+            "CTS Studios",
+            "Lansdowne Studios",
+            "Jacobs Studios",
+            "Mayflower Studios",
+            "PDO, USA"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock",
+            "Classical"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Contemporary"
+        ],
+        "id": 119662,
+        "barcode": [
+            "0 7863-57960-2 5",
+            "078635796025",
+            "79602RC 01@ C",
+            "MADE IN USA BY PDO",
+            "79602RC 02@ S",
+            "MADE IN USA BY PDO",
+            "DDD",
+            "BMI",
+            "ASCAP"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 119662,
+        "master_url": "https://api.discogs.com/masters/119662",
+        "uri": "/master/119662-David-Palmer-2-And-The-Royal-Philharmonic-Orchestra-Objects-Of-Fantasy-The-Music-Of-Pink-Floyd",
+        "catno": "7960-2-RC",
+        "title": "David Palmer (2) And The Royal Philharmonic Orchestra - Objects Of Fantasy (The Music Of Pink Floyd)",
+        "thumb": "https://i.discogs.com/hBA3Rt63M56DV-qd8vsU63ecNgVQ_e5FuC6TdtPYoh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM5/ODAtMTIyNTk4NTMw/Mi5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/6OS8EDq6Eb335xaKqfy-8w2u6fMMJ0eNEduJd5zfsv4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM5/ODAtMTIyNTk4NTMw/Mi5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/masters/119662",
+        "community": {
+            "want": 110,
+            "have": 854
+        }
+    },
+    {
+        "country": "US",
+        "year": "2016",
+        "format": [
+            "CD",
+            "Album"
+        ],
+        "label": [
+            "Decca",
+            "Decca Music Group Limited",
+            "Universal Music Classics",
+            "Universal Music Distribution",
+            "Universal Music Classics",
+            "Baton Rose Limited",
+            "Decca Classics",
+            "Baton Rose Limited",
+            "Decca Music Group Limited",
+            "Pink Floyd Music Publishers Ltd.",
+            "Warner/Chappell Artemis Music Ltd.",
+            "Abbey Road Studios",
+            "Avatar Studios",
+            "Abbey Road Studios",
+            "Abbey Road Studios"
+        ],
+        "type": "master",
+        "genre": [
+            "Rock",
+            "Classical"
+        ],
+        "style": [
+            "Symphonic Rock"
+        ],
+        "id": 965830,
+        "barcode": [
+            "0 28947 89517 6",
+            "0028947895176",
+            "M0S1 A9 CLA B002448402-2 AH02",
+            "IFPI L247",
+            "IFPI 2U3T",
+            "DDD"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 965830,
+        "master_url": "https://api.discogs.com/masters/965830",
+        "uri": "/master/965830-London-Orion-Orchestra-Alice-Cooper-2-Dave-Fowler-Stephen-McElroy-Rick-Wakeman-Pink-Floyds-Wish-You-",
+        "catno": "B0024484-02",
+        "title": "London Orion Orchestra, Alice Cooper (2), Dave Fowler*, Stephen McElroy, Rick Wakeman - Pink Floyd's Wish You Were Here Symphonic",
+        "thumb": "https://i.discogs.com/bcXAmgE_v30onz_mtKezU2O74v0nkLyiy0nOV1eAHX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzk1/MTQtMTQ1NjYyMjYz/OS03MjYzLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/i1Dt7ss_fjafxn0IUhpc7_8-FpJZ4LYj9xu6zWN0TZY/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzk1/MTQtMTQ1NjYyMjYz/OS03MjYzLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/masters/965830",
+        "community": {
+            "want": 291,
+            "have": 847
+        }
+    },
+    {
+        "country": "US",
+        "year": "1975",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Unofficial Release"
+        ],
+        "label": [
+            "Dittolino Discs"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Acid Rock",
+            "Experimental"
+        ],
+        "id": 7917233,
+        "barcode": [
+            "D2-A",
+            "D2-B",
+            "D2-C",
+            "D2-D"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 453165,
+        "master_url": "https://api.discogs.com/masters/453165",
+        "uri": "/Pink-Floyd-Pink-Floyd/release/7917233",
+        "catno": "D-2",
+        "title": "Pink Floyd - Pink Floyd",
+        "thumb": "https://i.discogs.com/S2f1eEoEYSfKSqpX2z1-IfyJWDEehmIU5G3bkq0m_48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTcy/MzMtMTQ1MTYyMDUx/Ny01MDEzLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/2r001vUA8f8AzVJEQp7T3rsskLywEZWoVfhU5iD7GFs/rs:fit/g:sm/q:90/h:288/w:288/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTcy/MzMtMTQ1MTYyMDUx/Ny01MDEzLmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/7917233",
+        "community": {
+            "want": 59,
+            "have": 14
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "descriptions": [
+                    "LP",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "US",
+        "year": "1995",
+        "format": [
+            "CD",
+            "Compilation"
+        ],
+        "label": [
+            "Cleopatra",
+            "Disctronics USA",
+            "Disctronics USA",
+            "Pink Floyd Music Publishers Ltd.",
+            "TRO-Hampshire House Publishing Corp.",
+            "Tro-Essex Music International, Inc.",
+            "TRO-Essex Music, Inc."
+        ],
+        "type": "release",
+        "genre": [
+            "Electronic",
+            "Rock"
+        ],
+        "style": [
+            "Trance",
+            "Industrial",
+            "Psychedelic Rock",
+            "Ambient"
+        ],
+        "id": 236595,
+        "barcode": [
+            "7 41157 95512 5",
+            "133786-2XR1-5139-1 DISCTRONICS USA **CLEO9551**",
+            "133787-2XR1-5139-1 DISCTRONICS USA **CLEO9551**"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 57084,
+        "master_url": "https://api.discogs.com/masters/57084",
+        "uri": "/release/236595-Various-A-Saucerful-Of-Pink-A-Tribute-To-Pink-Floyd",
+        "catno": "CLEO 9551-2",
+        "title": "Various - A Saucerful Of Pink (A Tribute To Pink Floyd)",
+        "thumb": "https://i.discogs.com/g-HgIfxbh5LMDNfqT5KTqlSPuFvxqFn7ipKtKY1C9IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU5/NS0xMjUzNDk5ODE0/LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/fxlNTWv6hPSKDeUiy-j7_wp4inyvu6onXHK3CpalPdY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU5/NS0xMjUzNDk5ODE0/LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/236595",
+        "community": {
+            "want": 45,
+            "have": 362
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "descriptions": [
+                    "Compilation"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Europe",
+        "year": "2018",
+        "format": [
+            "Vinyl",
+            "LP",
+            "Compilation",
+            "Unofficial Release"
+        ],
+        "label": [
+            "KTU"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock"
+        ],
+        "id": 13493972,
+        "barcode": [
+            "KTU33-2 A",
+            "KTU33-2 B",
+            "KTU33-2 C",
+            "KTU33-2 D"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 0,
+        "master_url": null,
+        "uri": "/Pink-Floyd-Summer-Solstice-The-Unreleased-Pink-Floyd-London-Collection/release/13493972",
+        "catno": "KTU 33-2",
+        "title": "Pink Floyd - Summer Solstice (The Unreleased Pink Floyd London Collection)",
+        "thumb": "https://i.discogs.com/8aSeC279uTuIukbTNYyrYwJN1QM51meFWT3dac2KfTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTcyLTE1NTUyNTQy/OTAtNzM0Ni5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/FOeqLZYXv67VYiCcVhf6lHkT1YMIfvDjBVfDrnM57t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkz/OTcyLTE1NTUyNTQy/OTAtNzM0Ni5qcGVn.jpeg",
+        "resource_url": "https://api.discogs.com/releases/13493972",
+        "community": {
+            "want": 65,
+            "have": 249
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "Vinyl",
+                "qty": "2",
+                "descriptions": [
+                    "LP",
+                    "Compilation",
+                    "Unofficial Release"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Argentina",
+        "year": "2001",
+        "format": [
+            "CD",
+            "Compilation",
+            "Mixed"
+        ],
+        "label": [
+            "EMI-Odeon S.A.I.C.",
+            "Teltron",
+            "Teltron"
+        ],
+        "type": "release",
+        "genre": [
+            "Rock"
+        ],
+        "style": [
+            "Psychedelic Rock",
+            "Prog Rock"
+        ],
+        "id": 3637325,
+        "barcode": [
+            "7 24353 61112 5",
+            "6869-1",
+            "6870-2",
+            "IFPI LL01",
+            "IFPI 6C06"
+        ],
+        "user_data": {
+            "in_wantlist": false,
+            "in_collection": false
+        },
+        "master_id": 20631,
+        "master_url": "https://api.discogs.com/masters/20631",
+        "uri": "/release/3637325-Pink-Floyd-Echoes-The-Best-Of-Pink-Floyd",
+        "catno": "7243 5 36111 2 5",
+        "title": "Pink Floyd - Echoes - The Best Of Pink Floyd",
+        "thumb": "https://i.discogs.com/Bd1YfNtrXB28VmRqths8ac6gjioUPiP1FoJ6ecQcIgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzcz/MjUtMTQ1NTI5OTE4/OS01MzU3LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/ee9ryfo5v0Nlr-wnGdpWL2wS0Y8AB4JTz_a4p3RTfpU/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzcz/MjUtMTQ1NTI5OTE4/OS01MzU3LmpwZWc.jpeg",
+        "resource_url": "https://api.discogs.com/releases/3637325",
+        "community": {
+            "want": 53,
+            "have": 147
+        },
+        "format_quantity": 2,
+        "formats": [
+            {
+                "name": "CD",
+                "qty": "2",
+                "text": "Slipcase",
+                "descriptions": [
+                    "Compilation",
+                    "Mixed"
+                ]
+            }
+        ]
+    }
+]

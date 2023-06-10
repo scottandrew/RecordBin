@@ -8,19 +8,30 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+  @StateObject var searchViewModel = SearchViewModel()
+  @State var searchString: String = ""
+  @State private var presntedItems: [SearchResult] = []
+  
+  
+  var body: some View {
+    NavigationStack(path: $presntedItems) {
+      SearchResultView(searchResult: $searchString)
+        .searchable(text: $searchString)
+        .padding(0)
+        .toolbar{
+          Button(action: {}) {
+            Label("Record Progress", systemImage: "book.circle")
+          }
         }
-        .padding()
     }
+    .navigationDestination(for: SearchResult.self) { result in
+      Text("for")
+    }
+  }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+    ContentView(searchString: "")
     }
 }

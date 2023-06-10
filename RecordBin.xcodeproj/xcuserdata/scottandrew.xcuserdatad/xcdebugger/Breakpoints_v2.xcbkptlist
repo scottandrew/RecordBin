@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F5F7E52B-4098-43C7-B1D7-162AE4AE9D52"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF7F9F67-CCD0-45BA-8A57-5F122A937FE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RecordBin-aooixobgyfplswftlluvcpgprwgw/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "makeRequest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50E60DD7-64E3-45D2-BC92-3FD04EBCBF17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RecordBin-aooixobgyfplswftlluvcpgprwgw/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "topViewController"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "50E60DD7-64E3-45D2-BC92-3FD04EBCBF17 - 1cab9776d83628c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.OAuthWebViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OAuthSwift.OAuthWebViewController"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Library/Developer/Xcode/DerivedData/RecordBin-aooixobgyfplswftlluvcpgprwgw/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "50E60DD7-64E3-45D2-BC92-3FD04EBCBF17 - 2274a9d9ca0e68db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.OAuthWebViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OAuthSwift.OAuthWebViewController&gt;"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Library/Developer/Xcode/DerivedData/RecordBin-aooixobgyfplswftlluvcpgprwgw/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30E20370-043B-4202-848A-F2E9A6F7A9B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecordBin/Discogs/WebViewAuthController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42D3BF1F-7710-4E6C-A9DC-7701608527A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecordBin/Discogs/WebViewAuthController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "handle(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42D3BF1F-7710-4E6C-A9DC-7701608527A9 - 619701efd8995320"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecordBin.WebViewAuthController.handle(Foundation.URL) -&gt; ()"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Sources/RecordBin/RecordBin/Discogs/WebViewAuthController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "42D3BF1F-7710-4E6C-A9DC-7701608527A9 - 619701efd8995320"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecordBin.WebViewAuthController.handle(Foundation.URL) -&gt; ()"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Sources/RecordBin/RecordBin/Discogs/WebViewAuthController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88D2E9B8-B269-4F07-9A30-6DA044D87B84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RecordBin-aooixobgyfplswftlluvcpgprwgw/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "handle(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88D2E9B8-B269-4F07-9A30-6DA044D87B84 - 65e63efd04f29cf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OAuthSwift.OAuthWebViewController.handle(Foundation.URL) -&gt; ()"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Library/Developer/Xcode/DerivedData/RecordBin-aooixobgyfplswftlluvcpgprwgw/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "88D2E9B8-B269-4F07-9A30-6DA044D87B84 - 4972e1c128937d86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in OAuthSwift.OAuthWebViewController.handle(Foundation.URL) -&gt; ()"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Library/Developer/Xcode/DerivedData/RecordBin-aooixobgyfplswftlluvcpgprwgw/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECA26314-A34A-4562-BC07-88337128D7D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecordBin/Discogs/Discogs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "next(pagination:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECA26314-A34A-4562-BC07-88337128D7D0 - c8a44d27b932b082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OAuthSwift.OAuthSwiftResponse, OAuthSwift.OAuthSwiftError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;, Swift.Error&gt;) -&gt; () in RecordBin.Discogs.next(pagination: RecordBin.Pagination) async throws -&gt; Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Sources/RecordBin/RecordBin/Discogs/Discogs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "ECA26314-A34A-4562-BC07-88337128D7D0 - c8a44d27b932bf8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OAuthSwift.OAuthSwiftResponse, OAuthSwift.OAuthSwiftError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;, Swift.Error&gt;) -&gt; () in RecordBin.Discogs.next(pagination: RecordBin.Pagination) async throws -&gt; Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Sources/RecordBin/RecordBin/Discogs/Discogs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E274CFA5-427D-417F-B7E9-0CDA20F51CA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecordBin/Discogs/Discogs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "next(pagination:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E274CFA5-427D-417F-B7E9-0CDA20F51CA2 - c8a44d27b932b006"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OAuthSwift.OAuthSwiftResponse, OAuthSwift.OAuthSwiftError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;, Swift.Error&gt;) -&gt; () in RecordBin.Discogs.next(pagination: RecordBin.Pagination) async throws -&gt; Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Sources/RecordBin/RecordBin/Discogs/Discogs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "E274CFA5-427D-417F-B7E9-0CDA20F51CA2 - c8a44d27b932bf0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OAuthSwift.OAuthSwiftResponse, OAuthSwift.OAuthSwiftError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;, Swift.Error&gt;) -&gt; () in RecordBin.Discogs.next(pagination: RecordBin.Pagination) async throws -&gt; Swift.Optional&lt;RecordBin.PagedResponse&lt;RecordBin.SearchResult&gt;&gt;"
+                  moduleName = "RecordBin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottandrew/Sources/RecordBin/RecordBin/Discogs/Discogs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EFC6741-D004-4105-98A4-30E64D8E440C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecordBin/SearchResult.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "hash(into:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA31BD46-FE42-4E2D-B177-15A87F4AD14F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecordBin/Discogs/Discogs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "get(api:parameters:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

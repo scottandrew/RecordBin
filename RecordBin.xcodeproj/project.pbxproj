@@ -14,6 +14,34 @@
 		40ADE2942A2CEE0E0040BF7B /* RecordBinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2932A2CEE0E0040BF7B /* RecordBinTests.swift */; };
 		40ADE29E2A2CEE0E0040BF7B /* RecordBinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE29D2A2CEE0E0040BF7B /* RecordBinUITests.swift */; };
 		40ADE2A02A2CEE0E0040BF7B /* RecordBinUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE29F2A2CEE0E0040BF7B /* RecordBinUITestsLaunchTests.swift */; };
+		40ADE2AE2A2CF5460040BF7B /* OAuthSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 40ADE2AD2A2CF5460040BF7B /* OAuthSwift */; };
+		40ADE2B12A2CF5FC0040BF7B /* Discogs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2B02A2CF5FC0040BF7B /* Discogs.swift */; };
+		40ADE2B42A2D07F20040BF7B /* ApplicationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2B32A2D07F20040BF7B /* ApplicationModel.swift */; };
+		40ADE2B62A2D8D930040BF7B /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2B52A2D8D930040BF7B /* SearchViewModel.swift */; };
+		40ADE2B82A2D94690040BF7B /* WebViewAuthController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2B72A2D94690040BF7B /* WebViewAuthController.swift */; };
+		40ADE2BA2A2E26530040BF7B /* IdentityResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2B92A2E26530040BF7B /* IdentityResponse.swift */; };
+		40ADE2BC2A2E69100040BF7B /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2BB2A2E69100040BF7B /* LoginView.swift */; };
+		40ADE2BF2A2E87140040BF7B /* KeychainSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 40ADE2BE2A2E87140040BF7B /* KeychainSwift */; };
+		40ADE2C12A2EAD8D0040BF7B /* PagedResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2C02A2EAD8D0040BF7B /* PagedResponse.swift */; };
+		40ADE2C32A2F86050040BF7B /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2C22A2F86050040BF7B /* SearchResult.swift */; };
+		40ADE2C52A2F98610040BF7B /* SearchEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2C42A2F98610040BF7B /* SearchEngine.swift */; };
+		40ADE2C72A30EF180040BF7B /* SearchResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2C62A30EF180040BF7B /* SearchResultView.swift */; };
+		40ADE2CA2A317F960040BF7B /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = 40ADE2C92A317F960040BF7B /* Nuke */; };
+		40ADE2CC2A317F960040BF7B /* NukeUI in Frameworks */ = {isa = PBXBuildFile; productRef = 40ADE2CB2A317F960040BF7B /* NukeUI */; };
+		40ADE2CE2A318C260040BF7B /* SearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2CD2A318C260040BF7B /* SearchCell.swift */; };
+		40ADE2D12A31EE350040BF7B /* ProcessInfo+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2D02A31EE350040BF7B /* ProcessInfo+Utils.swift */; };
+		40ADE2D32A3203680040BF7B /* pinkfloyd_thumb.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 40ADE2D22A3203680040BF7B /* pinkfloyd_thumb.jpeg */; };
+		40ADE2D52A3246050040BF7B /* SearchModelPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2D42A3246050040BF7B /* SearchModelPreview.swift */; };
+		40ADE2D72A324A6A0040BF7B /* PreviewSearchResults.json in Resources */ = {isa = PBXBuildFile; fileRef = 40ADE2D62A324A6A0040BF7B /* PreviewSearchResults.json */; };
+		40ADE2DB2A32979D0040BF7B /* ArtistDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2DA2A32979D0040BF7B /* ArtistDetails.swift */; };
+		40ADE2DD2A32C0FA0040BF7B /* UIImage+AverageColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2DC2A32C0FA0040BF7B /* UIImage+AverageColor.swift */; };
+		40ADE2DF2A335E320040BF7B /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2DE2A335E320040BF7B /* Artist.swift */; };
+		40ADE2E22A336A4A0040BF7B /* ImageResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2E12A336A4A0040BF7B /* ImageResource.swift */; };
+		40ADE2E42A3372990040BF7B /* Alias.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2E32A3372990040BF7B /* Alias.swift */; };
+		40ADE2E62A3372B80040BF7B /* Member.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2E52A3372B80040BF7B /* Member.swift */; };
+		40ADE2E92A3373EF0040BF7B /* ArtistDetailsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2E82A3373EF0040BF7B /* ArtistDetailsModel.swift */; };
+		40ADE2EB2A3394D00040BF7B /* The Beatles.json in Resources */ = {isa = PBXBuildFile; fileRef = 40ADE2EA2A3394D00040BF7B /* The Beatles.json */; };
+		40ADE2EE2A33B0EC0040BF7B /* WrappingHStack in Frameworks */ = {isa = PBXBuildFile; productRef = 40ADE2ED2A33B0EC0040BF7B /* WrappingHStack */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +73,30 @@
 		40ADE2992A2CEE0E0040BF7B /* RecordBinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecordBinUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40ADE29D2A2CEE0E0040BF7B /* RecordBinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordBinUITests.swift; sourceTree = "<group>"; };
 		40ADE29F2A2CEE0E0040BF7B /* RecordBinUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordBinUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		40ADE2B02A2CF5FC0040BF7B /* Discogs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discogs.swift; sourceTree = "<group>"; };
+		40ADE2B22A2CF65E0040BF7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		40ADE2B32A2D07F20040BF7B /* ApplicationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationModel.swift; sourceTree = "<group>"; };
+		40ADE2B52A2D8D930040BF7B /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
+		40ADE2B72A2D94690040BF7B /* WebViewAuthController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewAuthController.swift; sourceTree = "<group>"; };
+		40ADE2B92A2E26530040BF7B /* IdentityResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentityResponse.swift; sourceTree = "<group>"; };
+		40ADE2BB2A2E69100040BF7B /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		40ADE2C02A2EAD8D0040BF7B /* PagedResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagedResponse.swift; sourceTree = "<group>"; };
+		40ADE2C22A2F86050040BF7B /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
+		40ADE2C42A2F98610040BF7B /* SearchEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchEngine.swift; sourceTree = "<group>"; };
+		40ADE2C62A30EF180040BF7B /* SearchResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultView.swift; sourceTree = "<group>"; };
+		40ADE2CD2A318C260040BF7B /* SearchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCell.swift; sourceTree = "<group>"; };
+		40ADE2D02A31EE350040BF7B /* ProcessInfo+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProcessInfo+Utils.swift"; sourceTree = "<group>"; };
+		40ADE2D22A3203680040BF7B /* pinkfloyd_thumb.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pinkfloyd_thumb.jpeg; sourceTree = "<group>"; };
+		40ADE2D42A3246050040BF7B /* SearchModelPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchModelPreview.swift; sourceTree = "<group>"; };
+		40ADE2D62A324A6A0040BF7B /* PreviewSearchResults.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PreviewSearchResults.json; sourceTree = "<group>"; };
+		40ADE2DA2A32979D0040BF7B /* ArtistDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistDetails.swift; sourceTree = "<group>"; };
+		40ADE2DC2A32C0FA0040BF7B /* UIImage+AverageColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+AverageColor.swift"; sourceTree = "<group>"; };
+		40ADE2DE2A335E320040BF7B /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
+		40ADE2E12A336A4A0040BF7B /* ImageResource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageResource.swift; sourceTree = "<group>"; };
+		40ADE2E32A3372990040BF7B /* Alias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alias.swift; sourceTree = "<group>"; };
+		40ADE2E52A3372B80040BF7B /* Member.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Member.swift; sourceTree = "<group>"; };
+		40ADE2E82A3373EF0040BF7B /* ArtistDetailsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistDetailsModel.swift; sourceTree = "<group>"; };
+		40ADE2EA2A3394D00040BF7B /* The Beatles.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "The Beatles.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +104,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40ADE2CA2A317F960040BF7B /* Nuke in Frameworks */,
+				40ADE2BF2A2E87140040BF7B /* KeychainSwift in Frameworks */,
+				40ADE2AE2A2CF5460040BF7B /* OAuthSwift in Frameworks */,
+				40ADE2CC2A317F960040BF7B /* NukeUI in Frameworks */,
+				40ADE2EE2A33B0EC0040BF7B /* WrappingHStack in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -95,11 +152,21 @@
 		40ADE2802A2CEE0C0040BF7B /* RecordBin */ = {
 			isa = PBXGroup;
 			children = (
+				40ADE2E72A3373D60040BF7B /* ArtistDetails */,
+				40ADE2CF2A31EE160040BF7B /* Extensions */,
+				40ADE2B22A2CF65E0040BF7B /* Info.plist */,
+				40ADE2AF2A2CF5E70040BF7B /* Discogs */,
 				40ADE2812A2CEE0C0040BF7B /* RecordBinApp.swift */,
 				40ADE2832A2CEE0C0040BF7B /* ContentView.swift */,
 				40ADE2852A2CEE0D0040BF7B /* Assets.xcassets */,
 				40ADE28A2A2CEE0D0040BF7B /* RecordBin.entitlements */,
 				40ADE2872A2CEE0D0040BF7B /* Preview Content */,
+				40ADE2B32A2D07F20040BF7B /* ApplicationModel.swift */,
+				40ADE2B52A2D8D930040BF7B /* SearchViewModel.swift */,
+				40ADE2BB2A2E69100040BF7B /* LoginView.swift */,
+				40ADE2C22A2F86050040BF7B /* SearchResult.swift */,
+				40ADE2C42A2F98610040BF7B /* SearchEngine.swift */,
+				40ADE2CD2A318C260040BF7B /* SearchCell.swift */,
 			);
 			path = RecordBin;
 			sourceTree = "<group>";
@@ -107,7 +174,11 @@
 		40ADE2872A2CEE0D0040BF7B /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				40ADE2EA2A3394D00040BF7B /* The Beatles.json */,
+				40ADE2D62A324A6A0040BF7B /* PreviewSearchResults.json */,
+				40ADE2D22A3203680040BF7B /* pinkfloyd_thumb.jpeg */,
 				40ADE2882A2CEE0D0040BF7B /* Preview Assets.xcassets */,
+				40ADE2D42A3246050040BF7B /* SearchModelPreview.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -129,6 +200,48 @@
 			path = RecordBinUITests;
 			sourceTree = "<group>";
 		};
+		40ADE2AF2A2CF5E70040BF7B /* Discogs */ = {
+			isa = PBXGroup;
+			children = (
+				40ADE2E02A3369630040BF7B /* Artist */,
+				40ADE2B02A2CF5FC0040BF7B /* Discogs.swift */,
+				40ADE2B72A2D94690040BF7B /* WebViewAuthController.swift */,
+				40ADE2B92A2E26530040BF7B /* IdentityResponse.swift */,
+				40ADE2C02A2EAD8D0040BF7B /* PagedResponse.swift */,
+				40ADE2C62A30EF180040BF7B /* SearchResultView.swift */,
+				40ADE2E12A336A4A0040BF7B /* ImageResource.swift */,
+			);
+			path = Discogs;
+			sourceTree = "<group>";
+		};
+		40ADE2CF2A31EE160040BF7B /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				40ADE2D02A31EE350040BF7B /* ProcessInfo+Utils.swift */,
+				40ADE2DC2A32C0FA0040BF7B /* UIImage+AverageColor.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		40ADE2E02A3369630040BF7B /* Artist */ = {
+			isa = PBXGroup;
+			children = (
+				40ADE2DE2A335E320040BF7B /* Artist.swift */,
+				40ADE2E32A3372990040BF7B /* Alias.swift */,
+				40ADE2E52A3372B80040BF7B /* Member.swift */,
+			);
+			path = Artist;
+			sourceTree = "<group>";
+		};
+		40ADE2E72A3373D60040BF7B /* ArtistDetails */ = {
+			isa = PBXGroup;
+			children = (
+				40ADE2DA2A32979D0040BF7B /* ArtistDetails.swift */,
+				40ADE2E82A3373EF0040BF7B /* ArtistDetailsModel.swift */,
+			);
+			path = ArtistDetails;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -145,6 +258,13 @@
 			dependencies = (
 			);
 			name = RecordBin;
+			packageProductDependencies = (
+				40ADE2AD2A2CF5460040BF7B /* OAuthSwift */,
+				40ADE2BE2A2E87140040BF7B /* KeychainSwift */,
+				40ADE2C92A317F960040BF7B /* Nuke */,
+				40ADE2CB2A317F960040BF7B /* NukeUI */,
+				40ADE2ED2A33B0EC0040BF7B /* WrappingHStack */,
+			);
 			productName = RecordBin;
 			productReference = 40ADE27E2A2CEE0C0040BF7B /* RecordBin.app */;
 			productType = "com.apple.product-type.application";
@@ -217,6 +337,12 @@
 				Base,
 			);
 			mainGroup = 40ADE2752A2CEE0C0040BF7B;
+			packageReferences = (
+				40ADE2AC2A2CF5460040BF7B /* XCRemoteSwiftPackageReference "OAuthSwift" */,
+				40ADE2BD2A2E87140040BF7B /* XCRemoteSwiftPackageReference "keychain-swift" */,
+				40ADE2C82A317F960040BF7B /* XCRemoteSwiftPackageReference "Nuke" */,
+				40ADE2EC2A33B0EC0040BF7B /* XCRemoteSwiftPackageReference "WrappingHStack" */,
+			);
 			productRefGroup = 40ADE27F2A2CEE0C0040BF7B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -235,6 +361,9 @@
 			files = (
 				40ADE2892A2CEE0D0040BF7B /* Preview Assets.xcassets in Resources */,
 				40ADE2862A2CEE0D0040BF7B /* Assets.xcassets in Resources */,
+				40ADE2D32A3203680040BF7B /* pinkfloyd_thumb.jpeg in Resources */,
+				40ADE2EB2A3394D00040BF7B /* The Beatles.json in Resources */,
+				40ADE2D72A324A6A0040BF7B /* PreviewSearchResults.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +388,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40ADE2E22A336A4A0040BF7B /* ImageResource.swift in Sources */,
+				40ADE2CE2A318C260040BF7B /* SearchCell.swift in Sources */,
+				40ADE2C52A2F98610040BF7B /* SearchEngine.swift in Sources */,
+				40ADE2C72A30EF180040BF7B /* SearchResultView.swift in Sources */,
+				40ADE2E42A3372990040BF7B /* Alias.swift in Sources */,
+				40ADE2C32A2F86050040BF7B /* SearchResult.swift in Sources */,
+				40ADE2BA2A2E26530040BF7B /* IdentityResponse.swift in Sources */,
+				40ADE2C12A2EAD8D0040BF7B /* PagedResponse.swift in Sources */,
+				40ADE2B62A2D8D930040BF7B /* SearchViewModel.swift in Sources */,
 				40ADE2842A2CEE0C0040BF7B /* ContentView.swift in Sources */,
+				40ADE2B12A2CF5FC0040BF7B /* Discogs.swift in Sources */,
+				40ADE2D12A31EE350040BF7B /* ProcessInfo+Utils.swift in Sources */,
+				40ADE2DD2A32C0FA0040BF7B /* UIImage+AverageColor.swift in Sources */,
+				40ADE2B82A2D94690040BF7B /* WebViewAuthController.swift in Sources */,
+				40ADE2DF2A335E320040BF7B /* Artist.swift in Sources */,
+				40ADE2E92A3373EF0040BF7B /* ArtistDetailsModel.swift in Sources */,
+				40ADE2DB2A32979D0040BF7B /* ArtistDetails.swift in Sources */,
+				40ADE2B42A2D07F20040BF7B /* ApplicationModel.swift in Sources */,
+				40ADE2D52A3246050040BF7B /* SearchModelPreview.swift in Sources */,
+				40ADE2BC2A2E69100040BF7B /* LoginView.swift in Sources */,
+				40ADE2E62A3372B80040BF7B /* Member.swift in Sources */,
 				40ADE2822A2CEE0C0040BF7B /* RecordBinApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +573,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RecordBin/Info.plist;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -451,6 +601,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RecordBin/Info.plist;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -576,6 +727,69 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		40ADE2AC2A2CF5460040BF7B /* XCRemoteSwiftPackageReference "OAuthSwift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:OAuthSwift/OAuthSwift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+		40ADE2BD2A2E87140040BF7B /* XCRemoteSwiftPackageReference "keychain-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:evgenyneu/keychain-swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 20.0.0;
+			};
+		};
+		40ADE2C82A317F960040BF7B /* XCRemoteSwiftPackageReference "Nuke" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:kean/Nuke.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.0.0;
+			};
+		};
+		40ADE2EC2A33B0EC0040BF7B /* XCRemoteSwiftPackageReference "WrappingHStack" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:dkk/WrappingHStack.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		40ADE2AD2A2CF5460040BF7B /* OAuthSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 40ADE2AC2A2CF5460040BF7B /* XCRemoteSwiftPackageReference "OAuthSwift" */;
+			productName = OAuthSwift;
+		};
+		40ADE2BE2A2E87140040BF7B /* KeychainSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 40ADE2BD2A2E87140040BF7B /* XCRemoteSwiftPackageReference "keychain-swift" */;
+			productName = KeychainSwift;
+		};
+		40ADE2C92A317F960040BF7B /* Nuke */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 40ADE2C82A317F960040BF7B /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = Nuke;
+		};
+		40ADE2CB2A317F960040BF7B /* NukeUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 40ADE2C82A317F960040BF7B /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = NukeUI;
+		};
+		40ADE2ED2A33B0EC0040BF7B /* WrappingHStack */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 40ADE2EC2A33B0EC0040BF7B /* XCRemoteSwiftPackageReference "WrappingHStack" */;
+			productName = WrappingHStack;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 40ADE2762A2CEE0C0040BF7B /* Project object */;
 }
