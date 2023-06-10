@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40580B522A3493DB00436C97 /* LinkButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B512A3493DB00436C97 /* LinkButtonStyle.swift */; };
+		40580B542A34B35700436C97 /* LinkButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B532A34B35700436C97 /* LinkButton.swift */; };
 		40ADE2822A2CEE0C0040BF7B /* RecordBinApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2812A2CEE0C0040BF7B /* RecordBinApp.swift */; };
 		40ADE2842A2CEE0C0040BF7B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2832A2CEE0C0040BF7B /* ContentView.swift */; };
 		40ADE2862A2CEE0D0040BF7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40ADE2852A2CEE0D0040BF7B /* Assets.xcassets */; };
@@ -62,6 +64,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		40580B512A3493DB00436C97 /* LinkButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkButtonStyle.swift; sourceTree = "<group>"; };
+		40580B532A34B35700436C97 /* LinkButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkButton.swift; sourceTree = "<group>"; };
 		40ADE27E2A2CEE0C0040BF7B /* RecordBin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecordBin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40ADE2812A2CEE0C0040BF7B /* RecordBinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordBinApp.swift; sourceTree = "<group>"; };
 		40ADE2832A2CEE0C0040BF7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -129,6 +133,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		40580B502A3493BF00436C97 /* Controls */ = {
+			isa = PBXGroup;
+			children = (
+				40580B512A3493DB00436C97 /* LinkButtonStyle.swift */,
+				40580B532A34B35700436C97 /* LinkButton.swift */,
+			);
+			path = Controls;
+			sourceTree = "<group>";
+		};
 		40ADE2752A2CEE0C0040BF7B = {
 			isa = PBXGroup;
 			children = (
@@ -152,6 +165,7 @@
 		40ADE2802A2CEE0C0040BF7B /* RecordBin */ = {
 			isa = PBXGroup;
 			children = (
+				40580B502A3493BF00436C97 /* Controls */,
 				40ADE2E72A3373D60040BF7B /* ArtistDetails */,
 				40ADE2CF2A31EE160040BF7B /* Extensions */,
 				40ADE2B22A2CF65E0040BF7B /* Info.plist */,
@@ -400,6 +414,7 @@
 				40ADE2842A2CEE0C0040BF7B /* ContentView.swift in Sources */,
 				40ADE2B12A2CF5FC0040BF7B /* Discogs.swift in Sources */,
 				40ADE2D12A31EE350040BF7B /* ProcessInfo+Utils.swift in Sources */,
+				40580B522A3493DB00436C97 /* LinkButtonStyle.swift in Sources */,
 				40ADE2DD2A32C0FA0040BF7B /* UIImage+AverageColor.swift in Sources */,
 				40ADE2B82A2D94690040BF7B /* WebViewAuthController.swift in Sources */,
 				40ADE2DF2A335E320040BF7B /* Artist.swift in Sources */,
@@ -408,6 +423,7 @@
 				40ADE2B42A2D07F20040BF7B /* ApplicationModel.swift in Sources */,
 				40ADE2D52A3246050040BF7B /* SearchModelPreview.swift in Sources */,
 				40ADE2BC2A2E69100040BF7B /* LoginView.swift in Sources */,
+				40580B542A34B35700436C97 /* LinkButton.swift in Sources */,
 				40ADE2E62A3372B80040BF7B /* Member.swift in Sources */,
 				40ADE2822A2CEE0C0040BF7B /* RecordBinApp.swift in Sources */,
 			);
