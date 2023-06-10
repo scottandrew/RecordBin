@@ -63,7 +63,7 @@ class Discogs: ObservableObject {
       }
 
       // lets build our url.
-      var url = api.hasPrefix(self.baseURL.absoluteString) ? URL(string: api)! : self.baseURL.appendingPathComponent(api)
+      let url = api.hasPrefix(self.baseURL.absoluteString) ? URL(string: api)! : self.baseURL.appendingPathComponent(api)
       
       let headers = ["User-Agent": self.userAgent]
       
@@ -149,7 +149,7 @@ class Discogs: ObservableObject {
   }
   
 
-  
+  @discardableResult
   func authorize() async -> State {
     await MainActor.run {
       let controller = WebViewAuthController()

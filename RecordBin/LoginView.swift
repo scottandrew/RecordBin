@@ -12,8 +12,8 @@ struct LoginView: View {
     VStack {
       Button("Login to Discogs") {
         Task {
-          await Discogs.shared.authorize()
-          await try Discogs.shared.identity()
+          _ = await Discogs.shared.authorize()
+          try await Discogs.shared.identity()
         }
       }
     }
