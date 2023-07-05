@@ -9,6 +9,14 @@
 /* Begin PBXBuildFile section */
 		40580B522A3493DB00436C97 /* LinkButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B512A3493DB00436C97 /* LinkButtonStyle.swift */; };
 		40580B542A34B35700436C97 /* LinkButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B532A34B35700436C97 /* LinkButton.swift */; };
+		40580B562A3510B300436C97 /* ArtistsRelease.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B552A3510B300436C97 /* ArtistsRelease.swift */; };
+		40580B582A36951D00436C97 /* SortField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B572A36951D00436C97 /* SortField.swift */; };
+		40580B5A2A369A9D00436C97 /* ArtistsReleaseRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B592A369A9D00436C97 /* ArtistsReleaseRequest.swift */; };
+		40580B5C2A37313B00436C97 /* EmbeddedReleaseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B5B2A37313B00436C97 /* EmbeddedReleaseList.swift */; };
+		40580B5E2A3732FF00436C97 /* EmbeddedArtistReleaseListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B5D2A3732FF00436C97 /* EmbeddedArtistReleaseListModel.swift */; };
+		40580B602A37ED2A00436C97 /* NumberFormatter+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B5F2A37ED2A00436C97 /* NumberFormatter+Utils.swift */; };
+		40580B632A38181E00436C97 /* Pagable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B622A38181E00436C97 /* Pagable.swift */; };
+		40580B652A3818B400436C97 /* PagableViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40580B642A3818B400436C97 /* PagableViewModel.swift */; };
 		40ADE2822A2CEE0C0040BF7B /* RecordBinApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2812A2CEE0C0040BF7B /* RecordBinApp.swift */; };
 		40ADE2842A2CEE0C0040BF7B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ADE2832A2CEE0C0040BF7B /* ContentView.swift */; };
 		40ADE2862A2CEE0D0040BF7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40ADE2852A2CEE0D0040BF7B /* Assets.xcassets */; };
@@ -66,6 +74,14 @@
 /* Begin PBXFileReference section */
 		40580B512A3493DB00436C97 /* LinkButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkButtonStyle.swift; sourceTree = "<group>"; };
 		40580B532A34B35700436C97 /* LinkButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkButton.swift; sourceTree = "<group>"; };
+		40580B552A3510B300436C97 /* ArtistsRelease.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistsRelease.swift; sourceTree = "<group>"; };
+		40580B572A36951D00436C97 /* SortField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortField.swift; sourceTree = "<group>"; };
+		40580B592A369A9D00436C97 /* ArtistsReleaseRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistsReleaseRequest.swift; sourceTree = "<group>"; };
+		40580B5B2A37313B00436C97 /* EmbeddedReleaseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmbeddedReleaseList.swift; sourceTree = "<group>"; };
+		40580B5D2A3732FF00436C97 /* EmbeddedArtistReleaseListModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmbeddedArtistReleaseListModel.swift; sourceTree = "<group>"; };
+		40580B5F2A37ED2A00436C97 /* NumberFormatter+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NumberFormatter+Utils.swift"; sourceTree = "<group>"; };
+		40580B622A38181E00436C97 /* Pagable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pagable.swift; sourceTree = "<group>"; };
+		40580B642A3818B400436C97 /* PagableViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagableViewModel.swift; sourceTree = "<group>"; };
 		40ADE27E2A2CEE0C0040BF7B /* RecordBin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecordBin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40ADE2812A2CEE0C0040BF7B /* RecordBinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordBinApp.swift; sourceTree = "<group>"; };
 		40ADE2832A2CEE0C0040BF7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -142,6 +158,15 @@
 			path = Controls;
 			sourceTree = "<group>";
 		};
+		40580B612A3817E100436C97 /* Pagable */ = {
+			isa = PBXGroup;
+			children = (
+				40580B622A38181E00436C97 /* Pagable.swift */,
+				40580B642A3818B400436C97 /* PagableViewModel.swift */,
+			);
+			path = Pagable;
+			sourceTree = "<group>";
+		};
 		40ADE2752A2CEE0C0040BF7B = {
 			isa = PBXGroup;
 			children = (
@@ -165,6 +190,7 @@
 		40ADE2802A2CEE0C0040BF7B /* RecordBin */ = {
 			isa = PBXGroup;
 			children = (
+				40580B612A3817E100436C97 /* Pagable */,
 				40580B502A3493BF00436C97 /* Controls */,
 				40ADE2E72A3373D60040BF7B /* ArtistDetails */,
 				40ADE2CF2A31EE160040BF7B /* Extensions */,
@@ -224,6 +250,7 @@
 				40ADE2C02A2EAD8D0040BF7B /* PagedResponse.swift */,
 				40ADE2C62A30EF180040BF7B /* SearchResultView.swift */,
 				40ADE2E12A336A4A0040BF7B /* ImageResource.swift */,
+				40580B572A36951D00436C97 /* SortField.swift */,
 			);
 			path = Discogs;
 			sourceTree = "<group>";
@@ -233,6 +260,7 @@
 			children = (
 				40ADE2D02A31EE350040BF7B /* ProcessInfo+Utils.swift */,
 				40ADE2DC2A32C0FA0040BF7B /* UIImage+AverageColor.swift */,
+				40580B5F2A37ED2A00436C97 /* NumberFormatter+Utils.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -240,9 +268,13 @@
 		40ADE2E02A3369630040BF7B /* Artist */ = {
 			isa = PBXGroup;
 			children = (
+				40580B5B2A37313B00436C97 /* EmbeddedReleaseList.swift */,
 				40ADE2DE2A335E320040BF7B /* Artist.swift */,
 				40ADE2E32A3372990040BF7B /* Alias.swift */,
 				40ADE2E52A3372B80040BF7B /* Member.swift */,
+				40580B552A3510B300436C97 /* ArtistsRelease.swift */,
+				40580B592A369A9D00436C97 /* ArtistsReleaseRequest.swift */,
+				40580B5D2A3732FF00436C97 /* EmbeddedArtistReleaseListModel.swift */,
 			);
 			path = Artist;
 			sourceTree = "<group>";
@@ -402,24 +434,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40580B562A3510B300436C97 /* ArtistsRelease.swift in Sources */,
 				40ADE2E22A336A4A0040BF7B /* ImageResource.swift in Sources */,
 				40ADE2CE2A318C260040BF7B /* SearchCell.swift in Sources */,
 				40ADE2C52A2F98610040BF7B /* SearchEngine.swift in Sources */,
 				40ADE2C72A30EF180040BF7B /* SearchResultView.swift in Sources */,
+				40580B5E2A3732FF00436C97 /* EmbeddedArtistReleaseListModel.swift in Sources */,
 				40ADE2E42A3372990040BF7B /* Alias.swift in Sources */,
+				40580B602A37ED2A00436C97 /* NumberFormatter+Utils.swift in Sources */,
 				40ADE2C32A2F86050040BF7B /* SearchResult.swift in Sources */,
+				40580B652A3818B400436C97 /* PagableViewModel.swift in Sources */,
+				40580B5C2A37313B00436C97 /* EmbeddedReleaseList.swift in Sources */,
 				40ADE2BA2A2E26530040BF7B /* IdentityResponse.swift in Sources */,
 				40ADE2C12A2EAD8D0040BF7B /* PagedResponse.swift in Sources */,
 				40ADE2B62A2D8D930040BF7B /* SearchViewModel.swift in Sources */,
 				40ADE2842A2CEE0C0040BF7B /* ContentView.swift in Sources */,
 				40ADE2B12A2CF5FC0040BF7B /* Discogs.swift in Sources */,
+				40580B582A36951D00436C97 /* SortField.swift in Sources */,
 				40ADE2D12A31EE350040BF7B /* ProcessInfo+Utils.swift in Sources */,
+				40580B632A38181E00436C97 /* Pagable.swift in Sources */,
 				40580B522A3493DB00436C97 /* LinkButtonStyle.swift in Sources */,
 				40ADE2DD2A32C0FA0040BF7B /* UIImage+AverageColor.swift in Sources */,
 				40ADE2B82A2D94690040BF7B /* WebViewAuthController.swift in Sources */,
 				40ADE2DF2A335E320040BF7B /* Artist.swift in Sources */,
 				40ADE2E92A3373EF0040BF7B /* ArtistDetailsModel.swift in Sources */,
 				40ADE2DB2A32979D0040BF7B /* ArtistDetails.swift in Sources */,
+				40580B5A2A369A9D00436C97 /* ArtistsReleaseRequest.swift in Sources */,
 				40ADE2B42A2D07F20040BF7B /* ApplicationModel.swift in Sources */,
 				40ADE2D52A3246050040BF7B /* SearchModelPreview.swift in Sources */,
 				40ADE2BC2A2E69100040BF7B /* LoginView.swift in Sources */,

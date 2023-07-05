@@ -55,7 +55,7 @@ struct SearchCell_Previews: PreviewProvider {
 
     static var previews: some View {
 
-      let item = SearchResult(itemId: 1, type: .artist, userData: UserData(isInWantList: false, isInCollcation: false), masterId: nil, masterURL: nil, title: "Pink Floyd", uri: "", thumbURL: Bundle.main.url(forResource: "pinkfloyd_thumb", withExtension: "jpeg")!.absoluteString, coverImageURL: nil, resourceURL: nil)
+      let item = SearchResult(itemId: 1, type: .artist, userData: UserData(isInWantList: false, isInCollcation: false), masterId: nil, masterURL: nil, title: "Pink Floyd", uri: "", thumbURL: Bundle.main.url(forResource: "pinkfloyd_thumb", withExtension: "jpeg")!.absoluteString, coverImageURL: nil, resourceURL: nil, country: nil, label: nil, year: nil, format: nil)
       
    SearchCell(item: item)
     }

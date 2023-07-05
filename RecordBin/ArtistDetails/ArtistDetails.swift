@@ -34,7 +34,11 @@ struct ArtistDetails: View {
           buildProfileRow()
           buildCurrentMembersGrid()
           buildPastMembersGrid()
+          buildLinksSection()
         }
+        
+        buildReleaseList()
+          .padding()
       }
       .padding( )
     }
@@ -45,6 +49,14 @@ struct ArtistDetails: View {
         }
         
       }})
+  }
+  
+  @ViewBuilder func buildReleaseList() -> some View {
+    if let artist = model.artist {
+    EmbeddedArtistReleaseList(artist: artist)
+      
+    }
+    
   }
     
   @ViewBuilder func buildProfileRow() -> some View {
@@ -67,6 +79,20 @@ struct ArtistDetails: View {
         LinkButton(link: URL(string: member.resourceURL)!,
                    title: member.name,
                    style: member.active ? .members : .pastMembers)
+      }
+    }
+  }
+  
+  @ViewBuilder func buildLinksSection() -> some View {
+    if let urls = model.artist?.urls?.filter({!$0.isEmpty}), !urls.isEmpty {
+      GridRow {
+        Text("Links:")
+          .gridColumnAlignment(.trailing)
+        WrappingHStack(urls, lineSpacing: 8) { address in
+          LinkButton(link: URL(string: address)!,
+                     title:address,
+                     style: .link)
+        }
       }
     }
   }

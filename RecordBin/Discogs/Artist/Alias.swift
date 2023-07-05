@@ -11,7 +11,7 @@ struct Alias: Decodable, Equatable, Identifiable, Hashable {
   let id: Int
   let name: String
   let resourceURL: String
-  let thumbnailURL: String
+  let thumbnailURL: String?
   
   enum CodingKeys: String, CodingKey {
     case id

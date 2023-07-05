@@ -116,30 +116,24 @@ class Discogs: ObservableObject {
     return artist
   }
   
-  func next(pagination: Pagination) async throws -> PagedSearchResults? {
-    return try await withCheckedThrowingContinuation {continuation in
-      guard let nextURL = pagination.urls.next?.encodedURL else {
-        return continuation.resume(returning: nil)
-      }
-      
-      let headers = ["User-Agent": self.userAgent]
-      
-      self.oauth.client.get(nextURL, headers: headers) { result in
-        switch result {
-        case .success(let results):
-          do {
-            let nextReults = try JSONDecoder().decode(PagedSearchResults.self, from: results.data)
-            continuation.resume(returning: nextReults)
-          } catch {
-            continuation.resume(throwing: error)
-          }
-          
-        case .failure(let error):
-          continuation.resume(throwing: error)
-        }
-      }
-    }
+  func artistRelease(artist: Artist, order: String, sortField: String, page: Int, perPage: Int) async throws -> AsyncPagedSearchResponse {
+   // .artistRelease(artist: artist, order: order, sortField: sortField, page: nextPage, perPage: perPage)
+    let releases:AsyncPagedSearchResponse = try await get(
+      api:"database/search",
+      parameters:  [
+      "sort": sortField,
+      "sort_order": order,
+      "page": page,
+      "per_page": perPage,
+      "artist_id": artist.id,
+      "type": "release",
+      "group": 1
+    ])
+  
+    
+    return releases
   }
+  
   
   @discardableResult
   func identity() async throws -> Identity? {

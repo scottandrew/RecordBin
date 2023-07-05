@@ -12,7 +12,7 @@ struct Member: Decodable, Identifiable, Equatable, Hashable {
   let name: String
   let resourceURL: String
   let active: Bool
-  let thumbnailURL: String
+  let thumbnailURL: String?
   
   enum CodingKeys: String, CodingKey {
     case id

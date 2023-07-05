@@ -53,6 +53,11 @@ struct SearchResult: Decodable, Equatable, Identifiable, Hashable {
   let thumbURL: String?
   let coverImageURL: String?
   let resourceURL: String?
+  let country: String?
+  let label: [String]?
+  let year: String?
+  let format: [String]?
+  
 
   enum CodingKeys: String, CodingKey {
     case itemId = "id"
@@ -65,7 +70,21 @@ struct SearchResult: Decodable, Equatable, Identifiable, Hashable {
     case thumbURL = "thumb"
     case coverImageURL = "cover_image"
     case resourceURL = "resource_url"
+    case country
+    case label
+    case year
+    case format
   }
 }
 
-typealias PagedSearchResults = PagedResponse<SearchResult>
+class PagedSearchResults: PagedResponse {
+  typealias T = SearchResult
+  
+  var pagination: Pagination
+  var results: [SearchResult]
+  
+  enum CodingKeys: CodingKey {
+    case pagination
+    case results
+  }
+}

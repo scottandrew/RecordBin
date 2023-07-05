@@ -10,6 +10,7 @@ import Foundation
 @MainActor
 class ArtistDetailsModel: ObservableObject {
   @Published var artist: Artist?
+  @Published var releases: [SearchResult]?
   
   var currentMembers: [Member]{
     return artist?.members?.filter{ $0.active } ?? []

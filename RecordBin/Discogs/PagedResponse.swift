@@ -30,18 +30,27 @@ struct Pagination: Decodable,Equatable {
   let pageCount: Int
   let page: Int
   let itemCount: Int
-  let urls: URLs
+  
+  var hasNextPage: Bool { return page < pageCount }
+  
+  init(perPage: Int = 50) {
+    self.perPage = perPage
+    self.pageCount = 0
+    self.page = 0
+    self.itemCount = 0
+  }
   
   enum CodingKeys: String, CodingKey {
     case perPage = "per_page"
     case pageCount = "pages"
     case page
     case itemCount = "items"
-    case urls
   }
 }
 
-struct PagedResponse<T: Decodable>: Decodable {
-  let pagination: Pagination
-  let results: [T]
+protocol PagedResponse: Decodable {
+  associatedtype T: Decodable
+  
+  var pagination: Pagination {get}
+  var results: [T] {get}
 }
